@@ -1,4 +1,4 @@
-# Nimble packages Nix flake
+# nsaspy's Nimble packages Nix flake
 
 This repository contains experimental-grade, auto-generated
 [Nim](https://nim-lang.org/) packages.
