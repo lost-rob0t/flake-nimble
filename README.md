@@ -1,4 +1,5 @@
 # nsaspy's Nimble packages Nix flake
+Im running this as long as i need it, started the update action so if you was using the community version you can continue here.
 
 This repository contains experimental-grade, auto-generated
 [Nim](https://nim-lang.org/) packages.
