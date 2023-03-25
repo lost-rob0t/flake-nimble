@@ -9,6 +9,7 @@
   "akane" = ./akane.json;
   "alasgar" = ./alasgar.json;
   "alea" = ./alea.json;
+  "algebra" = ./algebra.json;
   "algebraicdatas" = ./algebraicdatas.json;
   "alignment" = ./alignment.json;
   "allegro5" = ./allegro5.json;
@@ -360,6 +361,7 @@
   "drand48" = ./drand48.json;
   "drawille" = ./drawille.json;
   "drawim" = ./drawim.json;
+  "drawit" = ./drawIt.json;
   "drchaos" = ./drchaos.json;
   "drng" = ./drng.json;
   "dropbox_filename_sanitizer" = ./dropbox_filename_sanitizer.json;
@@ -387,6 +389,7 @@
   "elfcore" = ./elfcore.json;
   "elvis" = ./elvis.json;
   "emath" = ./emath.json;
+  "embedfs" = ./embedfs.json;
   "emerald" = ./emerald.json;
   "eminim" = ./eminim.json;
   "emitter" = ./emitter.json;
@@ -981,6 +984,7 @@
   "nimagehide" = ./nimagehide.json;
   "nimagg" = ./nimAGG.json;
   "nimalpm" = ./nimalpm.json;
+  "nimalyzer" = ./nimalyzer.json;
   "nimarchive" = ./nimarchive.json;
   "nimarrow" = ./nimarrow.json;
   "nimarrow_glib" = ./nimarrow_glib.json;
@@ -1029,6 +1033,7 @@
   "nimdotenv" = ./nimdotenv.json;
   "nimem" = ./nimem.json;
   "nimes" = ./nimes.json;
+  "nimetry" = ./nimetry.json;
   "nimeverything" = ./nimeverything.json;
   "nimfasttext" = ./nimfastText.json;
   "nimfcuk" = ./nimfcuk.json;
@@ -1955,6 +1960,7 @@
   "xxtea" = ./xxtea.json;
   "yahooweather" = ./yahooweather.json;
   "yaml" = ./yaml.json;
+  "yanyl" = ./yanyl.json;
   "yawd" = ./yawd.json;
   "ytcc" = ./ytcc.json;
   "ytextractor" = ./ytextractor.json;
