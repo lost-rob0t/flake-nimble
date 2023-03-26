@@ -799,6 +799,7 @@
   "locert" = ./locert.json;
   "lockfreequeues" = ./lockfreequeues.json;
   "loco" = ./loco.json;
+  "lodev" = ./lodev.json;
   "lodns" = ./lodns.json;
   "logit" = ./logit.json;
   "logue" = ./logue.json;
