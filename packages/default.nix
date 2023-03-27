@@ -1065,6 +1065,7 @@
   "niminst" = ./niminst.json;
   "nimish" = ./nimish.json;
   "nimislides" = ./nimiSlides.json;
+  "nimitheme" = ./nimitheme.json;
   "nimja" = ./nimja.json;
   "nimjl" = ./nimjl.json;
   "nimjson" = ./nimjson.json;
