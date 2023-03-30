@@ -578,6 +578,7 @@
   "hackpad" = ./hackpad.json;
   "halonium" = ./halonium.json;
   "hangover" = ./hangover.json;
+  "happyx" = ./happyx.json;
   "haraka" = ./haraka.json;
   "harpoon" = ./harpoon.json;
   "hashids" = ./hashids.json;
@@ -1743,6 +1744,7 @@
   "threadproxy" = ./threadproxy.json;
   "tic80" = ./tic80.json;
   "tiger" = ./tiger.json;
+  "tigr" = ./tigr.json;
   "til" = ./til.json;
   "tim" = ./tim.json;
   "tim_sort" = ./tim_sort.json;
