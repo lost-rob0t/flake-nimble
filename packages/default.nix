@@ -699,6 +699,7 @@
   "json_rpc" = ./json_rpc.json;
   "json_serialization" = ./json_serialization.json;
   "jsonfmt" = ./jsonfmt.json;
+  "jsonnet" = ./jsonnet.json;
   "jsonob" = ./jsonob.json;
   "jsonschema" = ./jsonschema.json;
   "jsony" = ./jsony.json;
@@ -1211,6 +1212,7 @@
   "nshout" = ./nshout.json;
   "nsu" = ./nsu.json;
   "ntangle" = ./ntangle.json;
+  "nuance" = ./nuance.json;
   "numericalnim" = ./numericalnim.json;
   "numnim" = ./numnim.json;
   "numtoword" = ./numToWord.json;
