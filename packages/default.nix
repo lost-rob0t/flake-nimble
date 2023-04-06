@@ -625,6 +625,7 @@
   "httpx" = ./httpx.json;
   "huenim" = ./huenim.json;
   "huffman" = ./huffman.json;
+  "hyper" = ./hyper.json;
   "hyperscript" = ./hyperscript.json;
   "hypixel" = ./hypixel.json;
   "i18n" = ./i18n.json;
@@ -1498,6 +1499,8 @@
   "run_exe" = ./run_exe.json;
   "runeterra_decks" = ./runeterra_decks.json;
   "runned" = ./Runned.json;
+  "rure" = ./rure.json;
+  "rustls" = ./rustls.json;
   "rwlocks" = ./rwlocks.json;
   "rx_nim" = ./rx_nim.json;
   "safeset" = ./safeset.json;
@@ -1913,6 +1916,7 @@
   "weightedgraph" = ./weightedgraph.json;
   "wepoll" = ./wepoll.json;
   "whip" = ./whip.json;
+  "whisky" = ./whisky.json;
   "whois" = ./whois.json;
   "wiki2text" = ./wiki2text.json;
   "wilayahindonesia" = ./wilayahindonesia.json;
