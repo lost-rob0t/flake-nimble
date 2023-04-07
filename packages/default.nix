@@ -282,6 +282,7 @@
   "crap" = ./crap.json;
   "crc32" = ./crc32.json;
   "criterion" = ./criterion.json;
+  "cron" = ./cron.json;
   "crosscompile" = ./crosscompile.json;
   "crowngui" = ./crowngui.json;
   "crunchy" = ./crunchy.json;
