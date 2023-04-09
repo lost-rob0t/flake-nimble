@@ -353,6 +353,7 @@
   "dnsprotec" = ./dnsprotec.json;
   "dnsprotocol" = ./dnsprotocol.json;
   "dnsstamps" = ./dnsstamps.json;
+  "dnsstamps2" = ./dnsstamps2.json;
   "docopt" = ./docopt.json;
   "docx" = ./docx.json;
   "dogapi" = ./dogapi.json;
