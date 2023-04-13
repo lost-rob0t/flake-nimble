@@ -1904,6 +1904,7 @@
   "webby" = ./webby.json;
   "webdavclient" = ./webdavclient.json;
   "webdriver" = ./webdriver.json;
+  "webgeolocation" = ./webgeolocation.json;
   "webgl" = ./WebGL.json;
   "webgui" = ./webgui.json;
   "webp" = ./webp.json;
