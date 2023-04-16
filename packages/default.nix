@@ -1872,6 +1872,7 @@
   "variantkey" = ./variantkey.json;
   "variantsugar" = ./variantsugar.json;
   "vaultclient" = ./vaultclient.json;
+  "vcard" = ./vcard.json;
   "vec" = ./vec.json;
   "vecio" = ./vecio.json;
   "vecmath" = ./vecmath.json;
