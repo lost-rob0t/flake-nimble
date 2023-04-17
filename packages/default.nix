@@ -843,6 +843,7 @@
   "mccache" = ./mccache.json;
   "mcmurry" = ./mcmurry.json;
   "mcresponse" = ./mcresponse.json;
+  "mcsrvstat.nim" = ./mcsrvstat.nim.json;
   "mctranslog" = ./mctranslog.json;
   "mcu_utils" = ./mcu_utils.json;
   "mddoc" = ./mddoc.json;
