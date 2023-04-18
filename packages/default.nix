@@ -1116,6 +1116,7 @@
   "nimplehttpserver" = ./NimpleHTTPServer.json;
   "nimpmda" = ./nimpmda.json;
   "nimpng" = ./nimPNG.json;
+  "nimppt" = ./nimppt.json;
   "nimpress" = ./nimpress.json;
   "nimpretty_t" = ./nimpretty_t.json;
   "nimprotect" = ./nimprotect.json;
@@ -1977,6 +1978,7 @@
   "yaml" = ./yaml.json;
   "yanyl" = ./yanyl.json;
   "yawd" = ./yawd.json;
+  "youtubescraper" = ./youtubescraper.json;
   "ytcc" = ./ytcc.json;
   "ytextractor" = ./ytextractor.json;
   "yukiko" = ./yukiko.json;
