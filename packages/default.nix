@@ -987,6 +987,7 @@
   "nim_tiled" = ./nim_tiled.json;
   "nimactors" = ./nimactors.json;
   "nimaes" = ./nimAES.json;
+  "nimaescrypt" = ./nimAesCrypt.json;
   "nimage" = ./nimage.json;
   "nimagehide" = ./nimagehide.json;
   "nimagg" = ./nimAGG.json;
