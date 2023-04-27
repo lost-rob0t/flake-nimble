@@ -1475,6 +1475,7 @@
   "resolv" = ./resolv.json;
   "resolver" = ./resolver.json;
   "result" = ./result.json;
+  "results" = ./results.json;
   "resultsutils" = ./resultsutils.json;
   "resultutils" = ./resultutils.json;
   "rethinkdb" = ./rethinkdb.json;
