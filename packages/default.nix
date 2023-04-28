@@ -1168,6 +1168,7 @@
   "nimwc" = ./nimwc.json;
   "nimwebp" = ./nimwebp.json;
   "nimwin" = ./nimwin.json;
+  "nimwkhtmltox" = ./nimwkhtmltox.json;
   "nimword" = ./nimword.json;
   "nimx" = ./nimx.json;
   "nimx2" = ./nimx2.json;
