@@ -187,6 +187,7 @@
   "cassette" = ./cassette.json;
   "casting" = ./casting.json;
   "catnip" = ./catnip.json;
+  "catppuccin" = ./catppuccin.json;
   "cbor" = ./cbor.json;
   "cdecl" = ./cdecl.json;
   "cello" = ./cello.json;
