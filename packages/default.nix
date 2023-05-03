@@ -274,6 +274,7 @@
   "coverage" = ./coverage.json;
   "coverartarchive" = ./coverartarchive.json;
   "cowstrings" = ./cowstrings.json;
+  "cozytaskpool" = ./cozytaskpool.json;
   "cppany" = ./cppany.json;
   "cppclass" = ./cppclass.json;
   "cppstl" = ./cppstl.json;
