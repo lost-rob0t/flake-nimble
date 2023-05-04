@@ -198,6 +198,7 @@
   "chebyshev" = ./chebyshev.json;
   "checkif" = ./checkif.json;
   "checkpack" = ./checkpack.json;
+  "checksums" = ./checksums.json;
   "chipmunk" = ./chipmunk.json;
   "chipmunk6" = ./chipmunk6.json;
   "chipmunk7" = ./chipmunk7.json;
@@ -567,6 +568,7 @@
   "gradient" = ./gradient.json;
   "grafanim" = ./grafanim.json;
   "gralg" = ./grAlg.json;
+  "grammarian" = ./grammarian.json;
   "graphemes" = ./graphemes.json;
   "graphics" = ./graphics.json;
   "graphql" = ./graphql.json;
@@ -1388,6 +1390,7 @@
   "progress" = ./progress.json;
   "prologue" = ./prologue.json;
   "prometheus" = ./prometheus.json;
+  "promexplorer" = ./promexplorer.json;
   "prompt" = ./prompt.json;
   "pronimgress" = ./pronimgress.json;
   "protobuf" = ./protobuf.json;
