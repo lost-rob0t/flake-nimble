@@ -346,6 +346,7 @@
   "dimscmd" = ./dimscmd.json;
   "dimscord" = ./dimscord.json;
   "directnimrod" = ./directnimrod.json;
+  "dirtydeeds" = ./dirtydeeds.json;
   "discord_rpc" = ./discord_rpc.json;
   "discordnim" = ./discordnim.json;
   "distances" = ./distances.json;
