@@ -1707,6 +1707,7 @@
   "suggest" = ./suggest.json;
   "sums" = ./sums.json;
   "sumtypes" = ./sumtypes.json;
+  "sunk" = ./sunk.json;
   "sunvox" = ./sunvox.json;
   "supersnappy" = ./supersnappy.json;
   "supranim" = ./supranim.json;
