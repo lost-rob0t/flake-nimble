@@ -506,6 +506,7 @@
   "gamelib" = ./gamelib.json;
   "gamelight" = ./gamelight.json;
   "gameoflife" = ./gameoflife.json;
+  "gamepad" = ./gamepad.json;
   "gapbuffer" = ./gapbuffer.json;
   "gara" = ./gara.json;
   "gatabase" = ./gatabase.json;
