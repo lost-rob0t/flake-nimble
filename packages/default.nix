@@ -819,6 +819,7 @@
   "loony" = ./loony.json;
   "looper" = ./looper.json;
   "loopfusion" = ./loopfusion.json;
+  "lorem" = ./lorem.json;
   "lowdb" = ./lowdb.json;
   "lq" = ./lq.json;
   "lrparser" = ./lrparser.json;
@@ -1076,6 +1077,7 @@
   "nimibook" = ./nimibook.json;
   "nimics" = ./nimics.json;
   "niminst" = ./niminst.json;
+  "nimipdf" = ./nimipdf.json;
   "nimish" = ./nimish.json;
   "nimislides" = ./nimiSlides.json;
   "nimitheme" = ./nimitheme.json;
