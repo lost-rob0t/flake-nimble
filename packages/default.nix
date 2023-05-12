@@ -544,6 +544,7 @@
   "github" = ./github.json;
   "github_api" = ./github_api.json;
   "github_release" = ./github_release.json;
+  "gitman" = ./gitman.json;
   "glbits" = ./glbits.json;
   "gles" = ./gles.json;
   "glew" = ./glew.json;
@@ -1521,6 +1522,7 @@
   "rustls" = ./rustls.json;
   "rwlocks" = ./rwlocks.json;
   "rx_nim" = ./rx_nim.json;
+  "safeseq" = ./safeseq.json;
   "safeset" = ./safeset.json;
   "sam" = ./sam.json;
   "sam_protocol" = ./sam_protocol.json;
