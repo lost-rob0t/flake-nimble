@@ -1384,6 +1384,7 @@
   "preprod" = ./preprod.json;
   "preserves" = ./preserves.json;
   "presto" = ./presto.json;
+  "pretty" = ./pretty.json;
   "prettyclr" = ./prettyclr.json;
   "prettystr" = ./prettystr.json;
   "prettyvec" = ./prettyvec.json;
