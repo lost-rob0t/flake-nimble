@@ -1568,6 +1568,7 @@
   "servy" = ./servy.json;
   "sfml" = ./sfml.json;
   "sha1" = ./sha1.json;
+  "sha256_64b" = ./sha256_64B.json;
   "sha3" = ./sha3.json;
   "shady" = ./shady.json;
   "shared" = ./shared.json;
