@@ -195,6 +195,7 @@
   "chacha20" = ./chacha20.json;
   "chain" = ./chain.json;
   "changer" = ./changer.json;
+  "chat_openai" = ./chat_openai.json;
   "chebyshev" = ./chebyshev.json;
   "checkif" = ./checkif.json;
   "checkpack" = ./checkpack.json;
