@@ -1700,6 +1700,7 @@
   "strides" = ./strides.json;
   "stringinterpolation" = ./stringinterpolation.json;
   "stripe" = ./stripe.json;
+  "stripekit" = ./StripeKit.json;
   "strslice" = ./strslice.json;
   "struct" = ./struct.json;
   "strunicode" = ./strunicode.json;
