@@ -1348,6 +1348,7 @@
   "phosphor" = ./Phosphor.json;
   "phylogeni" = ./PhylogeNi.json;
   "physfs" = ./physfs.json;
+  "physfs_static" = ./physfs_static.json;
   "picohttpparser" = ./picohttpparser.json;
   "pigeon" = ./pigeon.json;
   "pine" = ./pine.json;
