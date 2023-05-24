@@ -932,6 +932,7 @@
   "nasher" = ./nasher.json;
   "nat_traversal" = ./nat_traversal.json;
   "native_dialogs" = ./native_dialogs.json;
+  "nats" = ./nats.json;
   "natu" = ./natu.json;
   "nauthy" = ./nauthy.json;
   "naw" = ./naw.json;
@@ -972,6 +973,7 @@
   "ni" = ./ni.json;
   "ni18n" = ./ni18n.json;
   "nico" = ./nico.json;
+  "nico_font_tool" = ./nico_font_tool.json;
   "nicoru" = ./nicoru.json;
   "nicy" = ./nicy.json;
   "nigui" = ./nigui.json;
@@ -1336,6 +1338,7 @@
   "pdba" = ./pdba.json;
   "pdcurses" = ./pdcurses.json;
   "peni" = ./peni.json;
+  "perceptual" = ./perceptual.json;
   "periapsisengine" = ./periapsisEngine.json;
   "perlin" = ./perlin.json;
   "persistent_enums" = ./persistent_enums.json;
