@@ -837,6 +837,7 @@
   "madam" = ./madam.json;
   "magic" = ./magic.json;
   "mailcow" = ./mailcow.json;
+  "malebolgia" = ./malebolgia.json;
   "manu" = ./manu.json;
   "mapbits" = ./mapbits.json;
   "marggers" = ./marggers.json;
