@@ -721,6 +721,7 @@
   "jwt" = ./jwt.json;
   "jwtea" = ./jwtea.json;
   "kaitai_struct_nim_runtime" = ./kaitai_struct_nim_runtime.json;
+  "kapsis" = ./kapsis.json;
   "karax" = ./karax.json;
   "kashae" = ./kashae.json;
   "kdb" = ./kdb.json;
@@ -1427,6 +1428,7 @@
   "pykot" = ./pykot.json;
   "pylib" = ./pylib.json;
   "pymod" = ./pymod.json;
+  "pyopenai" = ./pyopenai.json;
   "python" = ./python.json;
   "python3" = ./python3.json;
   "pythonfile" = ./pythonfile.json;
