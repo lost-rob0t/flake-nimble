@@ -437,6 +437,7 @@
   "extensions" = ./extensions.json;
   "ezscr" = ./ezscr.json;
   "fab" = ./fab.json;
+  "facedetect" = ./facedetect.json;
   "faker" = ./faker.json;
   "fastcgi" = ./fastcgi.json;
   "fastkiss" = ./FastKiss.json;
