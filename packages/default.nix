@@ -1033,6 +1033,7 @@
   "nimbug" = ./nimbug.json;
   "nimbus" = ./nimbus.json;
   "nimcat" = ./nimcat.json;
+  "nimcatapi" = ./nimcatapi.json;
   "nimcb" = ./nimcb.json;
   "nimcdl" = ./nimcdl.json;
   "nimcef" = ./nimCEF.json;
@@ -1609,6 +1610,7 @@
   "simpledecimal" = ./simpledecimal.json;
   "simplediff" = ./simplediff.json;
   "simpleflake" = ./simpleflake.json;
+  "simplelog" = ./simplelog.json;
   "simpleot" = ./simpleot.json;
   "simplepng" = ./simplepng.json;
   "siphash" = ./siphash.json;
