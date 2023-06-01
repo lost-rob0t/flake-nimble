@@ -863,6 +863,7 @@
   "mdlldk" = ./mdlldk.json;
   "mealdb" = ./mealdb.json;
   "measuremancer" = ./measuremancer.json;
+  "measures" = ./measures.json;
   "memlib" = ./memlib.json;
   "memo" = ./memo.json;
   "memviews" = ./memviews.json;
