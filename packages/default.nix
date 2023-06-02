@@ -161,6 +161,7 @@
   "brainlyextractor" = ./brainlyextractor.json;
   "breeze" = ./breeze.json;
   "brightcove" = ./brightcove.json;
+  "bro" = ./bro.json;
   "bs" = ./bs.json;
   "bson" = ./bson.json;
   "bu" = ./bu.json;
@@ -329,6 +330,7 @@
   "deepspeech" = ./deepspeech.json;
   "delaunay" = ./delaunay.json;
   "delight" = ./delight.json;
+  "denim" = ./denim.json;
   "denim_ui" = ./denim_ui.json;
   "denim_ui_cairo" = ./denim_ui_cairo.json;
   "denim_ui_canvas" = ./denim_ui_canvas.json;
@@ -1588,6 +1590,7 @@
   "shellopt" = ./shellopt.json;
   "shene" = ./shene.json;
   "shiftfields" = ./shiftfields.json;
+  "shio" = ./shio.json;
   "shiori" = ./shiori.json;
   "shiori_charset_convert" = ./shiori_charset_convert.json;
   "shioridll" = ./shioridll.json;
