@@ -585,6 +585,7 @@
   "gsl" = ./gsl.json;
   "gtk2" = ./gtk2.json;
   "gtkgenui" = ./gtkgenui.json;
+  "guardmons" = ./guardmons.json;
   "guildenstern" = ./guildenstern.json;
   "gungnir" = ./gungnir.json;
   "gyaric" = ./gyaric.json;
