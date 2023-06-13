@@ -1089,6 +1089,7 @@
   "nimibook" = ./nimibook.json;
   "nimics" = ./nimics.json;
   "niminst" = ./niminst.json;
+  "nimip" = ./nimip.json;
   "nimipdf" = ./nimipdf.json;
   "nimish" = ./nimish.json;
   "nimislides" = ./nimiSlides.json;
