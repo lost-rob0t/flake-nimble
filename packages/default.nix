@@ -1058,6 +1058,7 @@
   "nimdbx" = ./NimDBX.json;
   "nimdenter" = ./nimdenter.json;
   "nimdotenv" = ./nimdotenv.json;
+  "nimegenerator" = ./nimegenerator.json;
   "nimem" = ./nimem.json;
   "nimes" = ./nimes.json;
   "nimetry" = ./nimetry.json;
@@ -1114,6 +1115,7 @@
   "nimly" = ./nimly.json;
   "nimlz4" = ./nimlz4.json;
   "nimmarc" = ./NimMarc.json;
+  "nimmicrograd" = ./nimmicrograd.json;
   "nimmikudance" = ./nimmikudance.json;
   "nimmm" = ./nimmm.json;
   "nimmonocypher" = ./nimmonocypher.json;
