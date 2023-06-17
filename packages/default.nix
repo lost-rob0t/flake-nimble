@@ -640,6 +640,7 @@
   "huenim" = ./huenim.json;
   "huffman" = ./huffman.json;
   "hyper" = ./hyper.json;
+  "hyperloglog" = ./hyperloglog.json;
   "hyperscript" = ./hyperscript.json;
   "hypixel" = ./hypixel.json;
   "i18n" = ./i18n.json;
