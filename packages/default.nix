@@ -171,6 +171,7 @@
   "bytes2human" = ./bytes2human.json;
   "bytesequtils" = ./bytesequtils.json;
   "byteutils" = ./byteutils.json;
+  "bz2" = ./bz2.json;
   "c2nim" = ./c2nim.json;
   "c4" = ./c4.json;
   "c_alikes" = ./c_alikes.json;
