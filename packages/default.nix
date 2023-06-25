@@ -926,6 +926,7 @@
   "murmurhash" = ./murmurhash.json;
   "mustache" = ./mustache.json;
   "mutableseqs" = ./mutableseqs.json;
+  "mvb" = ./mvb.json;
   "mycouch" = ./mycouch.json;
   "myo" = ./myo.json;
   "mysqlparser" = ./mysqlparser.json;
