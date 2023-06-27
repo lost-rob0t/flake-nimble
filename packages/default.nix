@@ -398,6 +398,7 @@
   "einheit" = ./einheit.json;
   "elfcore" = ./elfcore.json;
   "elvis" = ./elvis.json;
+  "emailparser" = ./emailparser.json;
   "emath" = ./emath.json;
   "embedfs" = ./embedfs.json;
   "emerald" = ./emerald.json;
