@@ -250,6 +250,7 @@
   "coinbase_pro" = ./coinbase_pro.json;
   "collections" = ./collections.json;
   "colorcol" = ./colorcol.json;
+  "colored_logger" = ./colored_logger.json;
   "colorize" = ./colorize.json;
   "colorizeecho" = ./colorizeEcho.json;
   "colorsys" = ./colorsys.json;
