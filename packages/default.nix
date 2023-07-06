@@ -1137,6 +1137,7 @@
   "nimp5" = ./nimp5.json;
   "nimpari" = ./nimpari.json;
   "nimpass" = ./nimpass.json;
+  "nimpath" = ./nimpath.json;
   "nimpb" = ./nimpb.json;
   "nimpb_protoc" = ./nimpb_protoc.json;
   "nimpc" = ./NiMPC.json;
