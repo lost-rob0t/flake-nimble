@@ -112,6 +112,7 @@
   "beanstalkd" = ./beanstalkd.json;
   "bearlibterminal" = ./bearlibterminal.json;
   "bearssl" = ./bearssl.json;
+  "beautifulparser" = ./beautifulparser.json;
   "benchy" = ./benchy.json;
   "bencode" = ./bencode.json;
   "bezier" = ./bezier.json;
