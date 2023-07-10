@@ -159,6 +159,7 @@
   "boxy" = ./boxy.json;
   "bpg" = ./bpg.json;
   "brainfuck" = ./brainfuck.json;
+  "brainimfuck" = ./brainimfuck.json;
   "brainlyextractor" = ./brainlyextractor.json;
   "breeze" = ./breeze.json;
   "brightcove" = ./brightcove.json;
