@@ -590,6 +590,7 @@
   "gsl" = ./gsl.json;
   "gtk2" = ./gtk2.json;
   "gtkgenui" = ./gtkgenui.json;
+  "gtrends" = ./gtrends.json;
   "guardmons" = ./guardmons.json;
   "guildenstern" = ./guildenstern.json;
   "gungnir" = ./gungnir.json;
