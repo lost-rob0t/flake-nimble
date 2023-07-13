@@ -385,6 +385,7 @@
   "ducominer" = ./ducominer.json;
   "duktape" = ./duktape.json;
   "dumpincludes" = ./dumpincludes.json;
+  "dxlib" = ./DxLib.json;
   "dye" = ./dye.json;
   "eachdo" = ./eachdo.json;
   "easings" = ./easings.json;
