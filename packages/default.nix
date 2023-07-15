@@ -1401,6 +1401,7 @@
   "polymorph" = ./polymorph.json;
   "polynumeric" = ./polynumeric.json;
   "polypbren" = ./polypbren.json;
+  "polyrpc" = ./polyrpc.json;
   "pomtimer" = ./pomTimer.json;
   "ponairi" = ./ponairi.json;
   "pop3" = ./pop3.json;
@@ -1638,6 +1639,7 @@
   "skbintext" = ./skbintext.json;
   "skeasing" = ./skEasing.json;
   "ski" = ./ski.json;
+  "skinsuit" = ./skinsuit.json;
   "skinterpolate" = ./skinterpolate.json;
   "sksbox" = ./sksbox.json;
   "skybook" = ./skybook.json;
@@ -1690,6 +1692,7 @@
   "spinny" = ./spinny.json;
   "splitmix64" = ./splitmix64.json;
   "spotify" = ./spotify.json;
+  "spotlightr" = ./spotlightr.json;
   "spry" = ./spry.json;
   "sprymicro" = ./sprymicro.json;
   "spryvm" = ./spryvm.json;
