@@ -164,6 +164,7 @@
   "breeze" = ./breeze.json;
   "brightcove" = ./brightcove.json;
   "bro" = ./bro.json;
+  "broly" = ./broly.json;
   "bs" = ./bs.json;
   "bson" = ./bson.json;
   "bu" = ./bu.json;
@@ -189,6 +190,7 @@
   "cascade" = ./cascade.json;
   "cassandra" = ./cassandra.json;
   "cassette" = ./cassette.json;
+  "caster" = ./caster.json;
   "casting" = ./casting.json;
   "catnip" = ./catnip.json;
   "catppuccin" = ./catppuccin.json;
@@ -930,6 +932,7 @@
   "mummy" = ./mummy.json;
   "murmur" = ./murmur.json;
   "murmurhash" = ./murmurhash.json;
+  "musicsort" = ./musicSort.json;
   "mustache" = ./mustache.json;
   "mutableseqs" = ./mutableseqs.json;
   "mvb" = ./mvb.json;
@@ -1666,6 +1669,7 @@
   "socks" = ./socks.json;
   "socks5" = ./socks5.json;
   "sodium" = ./sodium.json;
+  "sokol" = ./sokol.json;
   "sol" = ./sol.json;
   "sonic" = ./sonic.json;
   "sophia" = ./sophia.json;
@@ -1748,6 +1752,7 @@
   "suggest" = ./suggest.json;
   "sums" = ./sums.json;
   "sumtypes" = ./sumtypes.json;
+  "sun_moon" = ./sun_moon.json;
   "sunk" = ./sunk.json;
   "sunvox" = ./sunvox.json;
   "supersnappy" = ./supersnappy.json;
@@ -1941,6 +1946,7 @@
   "vmath" = ./vmath.json;
   "vmprotect" = ./vmprotect.json;
   "vmvc" = ./vmvc.json;
+  "voicepeaky" = ./voicepeaky.json;
   "vscds" = ./vscds.json;
   "vtable" = ./vtable.json;
   "w8crc" = ./w8crc.json;
