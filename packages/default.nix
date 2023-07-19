@@ -96,6 +96,7 @@
   "bamboo_websocket" = ./bamboo_websocket.json;
   "barbarus" = ./barbarus.json;
   "barcode" = ./barcode.json;
+  "bard" = ./bard.json;
   "base32" = ./base32.json;
   "base45" = ./base45.json;
   "base58" = ./base58.json;
