@@ -368,6 +368,7 @@
   "dnsprotocol" = ./dnsprotocol.json;
   "dnsstamps" = ./dnsstamps.json;
   "dnsstamps2" = ./dnsstamps2.json;
+  "docid" = ./docid.json;
   "docopt" = ./docopt.json;
   "docx" = ./docx.json;
   "dogapi" = ./dogapi.json;
@@ -576,6 +577,7 @@
   "googleapi" = ./googleapi.json;
   "googlesearch" = ./googlesearch.json;
   "googletranslate" = ./googleTranslate.json;
+  "gookie" = ./gookie.json;
   "govee" = ./govee.json;
   "gplay" = ./gplay.json;
   "gptcli" = ./gptcli.json;
