@@ -803,6 +803,7 @@
   "libpe" = ./libpe.json;
   "libplist" = ./libplist.json;
   "libravatar" = ./libravatar.json;
+  "librng" = ./librng.json;
   "libsaedea" = ./libsaedea.json;
   "libsha" = ./libsha.json;
   "libsodium" = ./libsodium.json;
