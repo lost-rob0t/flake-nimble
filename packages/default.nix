@@ -229,6 +229,7 @@
   "classy" = ./classy.json;
   "clblast" = ./clblast.json;
   "cli_menu" = ./cli_menu.json;
+  "clibard" = ./clibard.json;
   "clibpp" = ./clibpp.json;
   "cliche" = ./cliche.json;
   "cligen" = ./cligen.json;
