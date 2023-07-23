@@ -332,6 +332,7 @@
   "dbg" = ./dbg.json;
   "dbschema" = ./dbschema.json;
   "dbus" = ./dbus.json;
+  "debby" = ./debby.json;
   "decimal" = ./decimal.json;
   "decimal128" = ./decimal128.json;
   "decisiontree" = ./decisiontree.json;
