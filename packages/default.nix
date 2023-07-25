@@ -1036,6 +1036,7 @@
   "nimaterial" = ./nimaterial.json;
   "nimates" = ./nimates.json;
   "nimatic" = ./nimatic.json;
+  "nimautogui" = ./nimautogui.json;
   "nimbass" = ./nimbass.json;
   "nimbench" = ./nimbench.json;
   "nimbigwig" = ./nimbigwig.json;
