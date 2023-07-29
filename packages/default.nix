@@ -203,6 +203,7 @@
   "chain" = ./chain.json;
   "changer" = ./changer.json;
   "chat_openai" = ./chat_openai.json;
+  "chatgptclient" = ./chatgptclient.json;
   "chebyshev" = ./chebyshev.json;
   "checkif" = ./checkif.json;
   "checkpack" = ./checkpack.json;
