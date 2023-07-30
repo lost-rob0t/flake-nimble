@@ -91,6 +91,7 @@
   "badgemaker" = ./badgemaker.json;
   "bag" = ./bag.json;
   "baker" = ./baker.json;
+  "bale" = ./bale.json;
   "ballena_itcher" = ./ballena_itcher.json;
   "ballpark" = ./ballpark.json;
   "bamboo_websocket" = ./bamboo_websocket.json;
