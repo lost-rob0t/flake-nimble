@@ -910,6 +910,7 @@
   "miniblink" = ./miniblink.json;
   "minicoro" = ./minicoro.json;
   "miniz" = ./miniz.json;
+  "minline" = ./minline.json;
   "minmaxheap" = ./minmaxheap.json;
   "miter" = ./miter.json;
   "mmgeoip" = ./mmgeoip.json;
