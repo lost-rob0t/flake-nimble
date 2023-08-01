@@ -109,6 +109,7 @@
   "batchsend" = ./batchsend.json;
   "batteries" = ./batteries.json;
   "battery_widget" = ./battery_widget.json;
+  "battinfo" = ./battinfo.json;
   "bcra" = ./bcra.json;
   "bcrypt" = ./bcrypt.json;
   "beanstalkd" = ./beanstalkd.json;
