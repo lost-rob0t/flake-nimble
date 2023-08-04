@@ -854,6 +854,7 @@
   "lua" = ./lua.json;
   "luhncheck" = ./luhncheck.json;
   "luhny" = ./luhny.json;
+  "luigi" = ./luigi.json;
   "luna" = ./luna.json;
   "lz77" = ./lz77.json;
   "macroplus" = ./macroplus.json;
@@ -1958,6 +1959,7 @@
   "vmprotect" = ./vmprotect.json;
   "vmvc" = ./vmvc.json;
   "voicepeaky" = ./voicepeaky.json;
+  "voicepeaky4gpt" = ./voicepeaky4gpt.json;
   "vscds" = ./vscds.json;
   "vtable" = ./vtable.json;
   "w8crc" = ./w8crc.json;
