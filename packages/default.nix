@@ -458,6 +458,7 @@
   "faker" = ./faker.json;
   "fastcgi" = ./fastcgi.json;
   "fastkiss" = ./FastKiss.json;
+  "fastpnm" = ./fastpnm.json;
   "faststack" = ./faststack.json;
   "faststreams" = ./faststreams.json;
   "fasttext" = ./fasttext.json;
