@@ -866,6 +866,7 @@
   "malebolgia" = ./malebolgia.json;
   "manu" = ./manu.json;
   "mapbits" = ./mapbits.json;
+  "mapster" = ./mapster.json;
   "marggers" = ./marggers.json;
   "markdown" = ./markdown.json;
   "markx" = ./markx.json;
