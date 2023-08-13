@@ -954,6 +954,7 @@
   "mysqlparser" = ./mysqlparser.json;
   "nage" = ./nage.json;
   "nake" = ./nake.json;
+  "namenumbersort" = ./namenumbersort.json;
   "names" = ./names.json;
   "nancy" = ./nancy.json;
   "nanim" = ./nanim.json;
