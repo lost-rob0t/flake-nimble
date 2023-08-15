@@ -1445,6 +1445,7 @@
   "promexplorer" = ./promexplorer.json;
   "prompt" = ./prompt.json;
   "pronimgress" = ./pronimgress.json;
+  "propositionallogic" = ./propositionalLogic.json;
   "protobuf" = ./protobuf.json;
   "protobuf_serialization" = ./protobuf_serialization.json;
   "protocoled" = ./protocoled.json;
