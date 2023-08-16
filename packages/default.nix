@@ -200,6 +200,7 @@
   "cbor" = ./cbor.json;
   "cdecl" = ./cdecl.json;
   "cello" = ./cello.json;
+  "cflags" = ./cflags.json;
   "cgi" = ./cgi.json;
   "chacha20" = ./chacha20.json;
   "chain" = ./chain.json;
@@ -1725,6 +1726,7 @@
   "ssostrings" = ./ssostrings.json;
   "sss" = ./sss.json;
   "ssz_serialization" = ./ssz_serialization.json;
+  "stack_strings" = ./stack_strings.json;
   "stacks" = ./stacks.json;
   "stage" = ./stage.json;
   "stalinsort" = ./stalinsort.json;
@@ -1752,6 +1754,7 @@
   "stringinterpolation" = ./stringinterpolation.json;
   "stripe" = ./stripe.json;
   "stripekit" = ./StripeKit.json;
+  "strophe" = ./strophe.json;
   "strslice" = ./strslice.json;
   "struct" = ./struct.json;
   "strunicode" = ./strunicode.json;
