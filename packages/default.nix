@@ -552,6 +552,7 @@
   "gerbil" = ./gerbil.json;
   "getch" = ./getch.json;
   "getmac" = ./getmac.json;
+  "getpodia" = ./getpodia.json;
   "getr" = ./getr.json;
   "gh_nimrod_doc_pages" = ./gh_nimrod_doc_pages.json;
   "gifenc" = ./gifenc.json;
@@ -1991,6 +1992,7 @@
   "webp" = ./webp.json;
   "webrod" = ./webrod.json;
   "webrtcvad" = ./webrtcvad.json;
+  "websitegenerator" = ./websitegenerator.json;
   "websock" = ./websock.json;
   "websocket" = ./websocket.json;
   "websocketx" = ./websocketx.json;
