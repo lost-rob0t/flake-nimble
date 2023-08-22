@@ -870,6 +870,7 @@
   "mapbits" = ./mapbits.json;
   "mapster" = ./mapster.json;
   "marggers" = ./marggers.json;
+  "margrave" = ./margrave.json;
   "markdown" = ./markdown.json;
   "markx" = ./markx.json;
   "masterpassword" = ./masterpassword.json;
@@ -1526,6 +1527,7 @@
   "redpool" = ./redpool.json;
   "redux" = ./redux.json;
   "redux_nim" = ./redux_nim.json;
+  "reed_solomon" = ./reed_solomon.json;
   "reframe" = ./reframe.json;
   "regex" = ./regex.json;
   "remarker_light" = ./remarker_light.json;
@@ -1563,6 +1565,7 @@
   "rpgsheet" = ./rpgsheet.json;
   "rss" = ./rss.json;
   "rsvg" = ./rsvg.json;
+  "rtmidi" = ./rtmidi.json;
   "rtree" = ./rtree.json;
   "ruby" = ./ruby.json;
   "run_exe" = ./run_exe.json;
