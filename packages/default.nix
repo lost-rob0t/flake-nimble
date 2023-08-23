@@ -110,6 +110,7 @@
   "batteries" = ./batteries.json;
   "battery_widget" = ./battery_widget.json;
   "battinfo" = ./battinfo.json;
+  "bc_webservices" = ./bc_webservices.json;
   "bcra" = ./bcra.json;
   "bcrypt" = ./bcrypt.json;
   "beanstalkd" = ./beanstalkd.json;
@@ -237,6 +238,7 @@
   "clibpp" = ./clibpp.json;
   "cliche" = ./cliche.json;
   "cligen" = ./cligen.json;
+  "cligpt" = ./cligpt.json;
   "climate" = ./climate.json;
   "climinesweeper" = ./climinesweeper.json;
   "clipper2" = ./clipper2.json;
@@ -363,6 +365,7 @@
   "dimscord" = ./dimscord.json;
   "directnimrod" = ./directnimrod.json;
   "dirtydeeds" = ./dirtydeeds.json;
+  "dirtygpt" = ./dirtygpt.json;
   "discord_rpc" = ./discord_rpc.json;
   "discordnim" = ./discordnim.json;
   "distances" = ./distances.json;
