@@ -1640,6 +1640,7 @@
   "shlex" = ./shlex.json;
   "shmk" = ./shmk.json;
   "shoco" = ./shoco.json;
+  "shopifyextractor" = ./shopifyextractor.json;
   "shorteststring" = ./shorteststring.json;
   "shorturl" = ./shorturl.json;
   "signals" = ./signals.json;
