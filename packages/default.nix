@@ -766,6 +766,7 @@
   "klymene" = ./klymene.json;
   "kmer" = ./kmer.json;
   "kmod" = ./kmod.json;
+  "knot" = ./knot.json;
   "kombinator" = ./kombinator.json;
   "kraut" = ./kraut.json;
   "kroutes" = ./kroutes.json;
