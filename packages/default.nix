@@ -1585,6 +1585,7 @@
   "sam_protocol" = ./sam_protocol.json;
   "sampletodolist" = ./sampleTodoList.json;
   "sass" = ./sass.json;
+  "saucenao-nim" = ./saucenao-nim.json;
   "sauer" = ./sauer.json;
   "sayhissatsuwaza" = ./sayhissatsuwaza.json;
   "sbttl" = ./sbttl.json;
@@ -1723,6 +1724,7 @@
   "splitmix64" = ./splitmix64.json;
   "spotify" = ./spotify.json;
   "spotlightr" = ./spotlightr.json;
+  "spread" = ./spread.json;
   "spry" = ./spry.json;
   "sprymicro" = ./sprymicro.json;
   "spryvm" = ./spryvm.json;
