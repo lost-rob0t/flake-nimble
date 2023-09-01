@@ -670,6 +670,7 @@
   "i3ipc" = ./i3ipc.json;
   "icon" = ./icon.json;
   "iconim" = ./iconim.json;
+  "iecook" = ./iecook.json;
   "ikeahomesmart" = ./ikeahomesmart.json;
   "illwave" = ./illwave.json;
   "illwill" = ./illwill.json;
