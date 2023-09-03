@@ -1281,6 +1281,7 @@
   "nsu" = ./nsu.json;
   "ntangle" = ./ntangle.json;
   "nuance" = ./nuance.json;
+  "nulid" = ./nulid.json;
   "numericalnim" = ./numericalnim.json;
   "numnim" = ./numnim.json;
   "numtoword" = ./numToWord.json;
