@@ -687,6 +687,7 @@
   "imstyle" = ./imstyle.json;
   "influx" = ./influx.json;
   "inim" = ./inim.json;
+  "instagram" = ./instagram.json;
   "integers" = ./integers.json;
   "intel_hex" = ./intel_hex.json;
   "interface_implements" = ./interface_implements.json;
@@ -874,6 +875,7 @@
   "malebolgia" = ./malebolgia.json;
   "manu" = ./manu.json;
   "mapbits" = ./mapbits.json;
+  "mapm" = ./mapm.json;
   "mapster" = ./mapster.json;
   "marggers" = ./marggers.json;
   "margrave" = ./margrave.json;
