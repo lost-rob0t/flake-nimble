@@ -302,6 +302,7 @@
   "crc32" = ./crc32.json;
   "criterion" = ./criterion.json;
   "crockford-base32" = ./crockford-base32.json;
+  "crockfordb32" = ./crockfordb32.json;
   "cron" = ./cron.json;
   "crosscompile" = ./crosscompile.json;
   "crowngui" = ./crowngui.json;
