@@ -505,6 +505,7 @@
   "fontconfig" = ./fontconfig.json;
   "foreach" = ./foreach.json;
   "forestdb" = ./forestdb.json;
+  "forge" = ./forge.json;
   "formatstr" = ./formatstr.json;
   "formulas" = ./formulas.json;
   "fowltek" = ./fowltek.json;
