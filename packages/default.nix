@@ -1756,6 +1756,7 @@
   "std_shims" = ./std_shims.json;
   "stdarg" = ./stdarg.json;
   "stdext" = ./stdext.json;
+  "stdx" = ./stdx.json;
   "steam" = ./steam.json;
   "steamworks" = ./steamworks.json;
   "steganography" = ./steganography.json;
