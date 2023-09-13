@@ -2038,6 +2038,7 @@
   "wnim" = ./wNim.json;
   "woocommerce-api-nim" = ./woocommerce-api-nim.json;
   "word2vec" = ./word2vec.json;
+  "worldtree" = ./worldtree.json;
   "wox" = ./wox.json;
   "wpspin" = ./wpspin.json;
   "wren" = ./wren.json;
