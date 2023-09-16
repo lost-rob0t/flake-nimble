@@ -2095,6 +2095,7 @@
   "zmq" = ./zmq.json;
   "zopflipng" = ./zopflipng.json;
   "zstd" = ./zstd.json;
+  "zuhyo" = ./zuhyo.json;
   "zxcvbn" = ./zxcvbn.json;
   "zxcvbnim" = ./zxcvbnim.json;
 }
