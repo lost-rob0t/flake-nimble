@@ -1931,6 +1931,7 @@
   "unicode_numbers" = ./unicode_numbers.json;
   "unicodedb" = ./unicodedb.json;
   "unicodeplus" = ./unicodeplus.json;
+  "unicody" = ./unicody.json;
   "unit" = ./Unit.json;
   "units" = ./units.json;
   "unittest2" = ./unittest2.json;
