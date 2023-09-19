@@ -1071,6 +1071,7 @@
   "nimbluez" = ./nimbluez.json;
   "nimbmp" = ./nimBMP.json;
   "nimbomb" = ./nimbomb.json;
+  "nimbooru" = ./nimbooru.json;
   "nimboost" = ./nimboost.json;
   "nimborg" = ./NimBorg.json;
   "nimbox" = ./nimbox.json;
