@@ -151,6 +151,7 @@
   "blackvas_cli" = ./blackvas_cli.json;
   "blake2" = ./blake2.json;
   "blarg" = ./blarg.json;
+  "blimp" = ./blimp.json;
   "bloom" = ./bloom.json;
   "blosc" = ./blosc.json;
   "blscurve" = ./blscurve.json;
@@ -780,6 +781,7 @@
   "kwin" = ./kwin.json;
   "labeledtypes" = ./labeledtypes.json;
   "ladder" = ./ladder.json;
+  "lapp" = ./lapp.json;
   "lapper" = ./lapper.json;
   "laser" = ./laser.json;
   "lastfm" = ./lastfm.json;
