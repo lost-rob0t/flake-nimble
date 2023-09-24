@@ -560,6 +560,7 @@
   "getch" = ./getch.json;
   "getmac" = ./getmac.json;
   "getpodia" = ./getpodia.json;
+  "getprime" = ./getprime.json;
   "getr" = ./getr.json;
   "gh_nimrod_doc_pages" = ./gh_nimrod_doc_pages.json;
   "gifenc" = ./gifenc.json;
