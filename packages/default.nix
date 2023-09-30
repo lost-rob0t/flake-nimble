@@ -1936,6 +1936,7 @@
   "unicodedb" = ./unicodedb.json;
   "unicodeplus" = ./unicodeplus.json;
   "unicody" = ./unicody.json;
+  "unifetch" = ./unifetch.json;
   "unit" = ./Unit.json;
   "units" = ./units.json;
   "unittest2" = ./unittest2.json;
