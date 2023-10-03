@@ -1657,6 +1657,7 @@
   "shorteststring" = ./shorteststring.json;
   "shorturl" = ./shorturl.json;
   "signals" = ./signals.json;
+  "sigui" = ./sigui.json;
   "sigv4" = ./sigv4.json;
   "sim" = ./sim.json;
   "simdx86" = ./simdX86.json;
