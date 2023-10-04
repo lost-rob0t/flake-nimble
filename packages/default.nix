@@ -935,6 +935,7 @@
   "miter" = ./miter.json;
   "mmgeoip" = ./mmgeoip.json;
   "mnemonic" = ./mnemonic.json;
+  "modernnet" = ./modernnet.json;
   "moduleinit" = ./moduleinit.json;
   "mofuw" = ./mofuw.json;
   "monerorpc" = ./monerorpc.json;
