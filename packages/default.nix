@@ -2015,6 +2015,7 @@
   "webgeolocation" = ./webgeolocation.json;
   "webgl" = ./WebGL.json;
   "webgui" = ./webgui.json;
+  "webidl2nim" = ./webidl2nim.json;
   "webp" = ./webp.json;
   "webrod" = ./webrod.json;
   "webrtcvad" = ./webrtcvad.json;
