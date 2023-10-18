@@ -179,6 +179,7 @@
   "bytes2human" = ./bytes2human.json;
   "bytesequtils" = ./bytesequtils.json;
   "byteutils" = ./byteutils.json;
+  "bz" = ./bz.json;
   "bz2" = ./bz2.json;
   "c2nim" = ./c2nim.json;
   "c4" = ./c4.json;
@@ -671,6 +672,7 @@
   "hyperloglog" = ./hyperloglog.json;
   "hyperscript" = ./hyperscript.json;
   "hypixel" = ./hypixel.json;
+  "hyprland_ipc" = ./hyprland_ipc.json;
   "i18n" = ./i18n.json;
   "i3ipc" = ./i3ipc.json;
   "icon" = ./icon.json;
