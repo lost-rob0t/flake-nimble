@@ -472,6 +472,7 @@
   "fasttext" = ./fasttext.json;
   "fastx_reader" = ./fastx_reader.json;
   "fblib" = ./fblib.json;
+  "fedi_auth" = ./fedi_auth.json;
   "feednim" = ./feednim.json;
   "ffbookmarks" = ./ffbookmarks.json;
   "ffmpeg" = ./ffmpeg.json;
@@ -543,6 +544,7 @@
   "gdbmc" = ./gdbmc.json;
   "gemini" = ./gemini.json;
   "geminim" = ./geminim.json;
+  "gemmajson" = ./gemmaJSON.json;
   "gen" = ./gen.json;
   "gene" = ./gene.json;
   "genieos" = ./genieos.json;
@@ -614,6 +616,7 @@
   "gtk2" = ./gtk2.json;
   "gtkgenui" = ./gtkgenui.json;
   "gtrends" = ./gtrends.json;
+  "gts_emoji_importer" = ./gts_emoji_importer.json;
   "guardmons" = ./guardmons.json;
   "guildenstern" = ./guildenstern.json;
   "gungnir" = ./gungnir.json;
