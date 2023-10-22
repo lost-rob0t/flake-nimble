@@ -241,6 +241,7 @@
   "cliche" = ./cliche.json;
   "cligen" = ./cligen.json;
   "cligpt" = ./cligpt.json;
+  "clim" = ./clim.json;
   "climate" = ./climate.json;
   "climinesweeper" = ./climinesweeper.json;
   "clipper2" = ./clipper2.json;
