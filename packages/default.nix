@@ -659,6 +659,7 @@
   "html_tools" = ./html_tools.json;
   "htmlanticopy" = ./htmlAntiCopy.json;
   "htmlgenerator" = ./htmlgenerator.json;
+  "htmlparser" = ./htmlparser.json;
   "htmltovdom" = ./htmlToVdom.json;
   "htmlunescape" = ./htmlunescape.json;
   "hts" = ./hts.json;
