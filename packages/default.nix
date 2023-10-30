@@ -1759,6 +1759,7 @@
   "sss" = ./sss.json;
   "ssz_serialization" = ./ssz_serialization.json;
   "stack_strings" = ./stack_strings.json;
+  "stackclosures" = ./stackclosures.json;
   "stacks" = ./stacks.json;
   "stage" = ./stage.json;
   "stalinsort" = ./stalinsort.json;
