@@ -46,6 +46,7 @@
   "arrayfirenim" = ./ArrayFireNim.json;
   "arraymancer" = ./arraymancer.json;
   "arraymancer_vision" = ./arraymancer_vision.json;
+  "arrayutils" = ./arrayutils.json;
   "artemis" = ./artemis.json;
   "asciigraph" = ./asciigraph.json;
   "asciitables" = ./asciitables.json;
@@ -57,6 +58,7 @@
   "ast_pattern_matching" = ./ast_pattern_matching.json;
   "astar" = ./astar.json;
   "astdot" = ./astdot.json;
+  "astiife" = ./astiife.json;
   "astronimy" = ./AstroNimy.json;
   "asyncanything" = ./asyncanything.json;
   "asyncdocker" = ./asyncdocker.json;
