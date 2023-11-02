@@ -31,6 +31,7 @@
   "ants" = ./ants.json;
   "anttweakbar" = ./AntTweakBar.json;
   "anybar" = ./anybar.json;
+  "anycallconv" = ./anycallconv.json;
   "anycase" = ./anycase.json;
   "aossoa" = ./aossoa.json;
   "applicates" = ./applicates.json;
@@ -193,6 +194,7 @@
   "calibre" = ./calibre.json;
   "camelize" = ./camelize.json;
   "canonicaljson" = ./canonicaljson.json;
+  "cap10" = ./cap10.json;
   "capnp" = ./capnp.json;
   "capstone" = ./capstone.json;
   "cascade" = ./cascade.json;
@@ -1281,6 +1283,7 @@
   "normalize" = ./normalize.json;
   "norman" = ./norman.json;
   "norx" = ./norx.json;
+  "nostr" = ./nostr.json;
   "notcurses" = ./notcurses.json;
   "notetxt" = ./notetxt.json;
   "notificatcher" = ./notificatcher.json;
@@ -2113,6 +2116,7 @@
   "zippy" = ./zippy.json;
   "zlib" = ./zlib.json;
   "zmq" = ./zmq.json;
+  "zoominvitr" = ./zoominvitr.json;
   "zopflipng" = ./zopflipng.json;
   "zstd" = ./zstd.json;
   "zuhyo" = ./zuhyo.json;
