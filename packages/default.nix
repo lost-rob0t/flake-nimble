@@ -386,6 +386,7 @@
   "dnsprotocol" = ./dnsprotocol.json;
   "dnsstamps" = ./dnsstamps.json;
   "dnsstamps2" = ./dnsstamps2.json;
+  "docchanger" = ./docchanger.json;
   "docid" = ./docid.json;
   "docopt" = ./docopt.json;
   "docx" = ./docx.json;
