@@ -1866,6 +1866,7 @@
   "the_nim_alliance" = ./the_nim_alliance.json;
   "therapist" = ./therapist.json;
   "threading" = ./threading.json;
+  "threadlogging" = ./threadlogging.json;
   "threadproxy" = ./threadproxy.json;
   "tic80" = ./tic80.json;
   "tiger" = ./tiger.json;
