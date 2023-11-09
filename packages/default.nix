@@ -1376,6 +1376,7 @@
   "packets" = ./packets.json;
   "packy" = ./packy.json;
   "pager" = ./pager.json;
+  "paint" = ./paint.json;
   "palette" = ./Palette.json;
   "palladian" = ./palladian.json;
   "pantry" = ./pantry.json;
