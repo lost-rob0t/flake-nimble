@@ -626,6 +626,7 @@
   "guardmons" = ./guardmons.json;
   "guildenstern" = ./guildenstern.json;
   "gungnir" = ./gungnir.json;
+  "gura" = ./gura.json;
   "gyaric" = ./gyaric.json;
   "hackpad" = ./hackpad.json;
   "halonium" = ./halonium.json;
@@ -1146,6 +1147,7 @@
   "nimib" = ./nimib.json;
   "nimibook" = ./nimibook.json;
   "nimics" = ./nimics.json;
+  "nimidi" = ./niMIDI.json;
   "niminst" = ./niminst.json;
   "nimip" = ./nimip.json;
   "nimipdf" = ./nimipdf.json;
@@ -1195,6 +1197,7 @@
   "nimpc" = ./NiMPC.json;
   "nimpcre" = ./nimpcre.json;
   "nimpdf" = ./nimPDF.json;
+  "nimpk" = ./nimpk.json;
   "nimplehttpserver" = ./NimpleHTTPServer.json;
   "nimpmda" = ./nimpmda.json;
   "nimpng" = ./nimPNG.json;
@@ -1293,6 +1296,7 @@
   "notifishower" = ./notifishower.json;
   "notify" = ./notify.json;
   "notmuch" = ./notmuch.json;
+  "noxen" = ./noxen.json;
   "npeg" = ./npeg.json;
   "npg" = ./npg.json;
   "nptr" = ./nptr.json;
@@ -1314,6 +1318,7 @@
   "nyml" = ./nyml.json;
   "oaitools" = ./oaitools.json;
   "oauth" = ./oauth.json;
+  "objaccess" = ./objaccess.json;
   "objc_runtime" = ./objc_runtime.json;
   "oblivion" = ./oblivion.json;
   "oculus" = ./oculus.json;
@@ -2100,6 +2105,7 @@
   "xxhash" = ./xxhash.json;
   "xxtea" = ./xxtea.json;
   "yahooweather" = ./yahooweather.json;
+  "yahttp" = ./yahttp.json;
   "yaml" = ./yaml.json;
   "yanyl" = ./yanyl.json;
   "yawd" = ./yawd.json;
