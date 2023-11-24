@@ -85,6 +85,7 @@
   "autotemplate" = ./autotemplate.json;
   "autotyper" = ./autotyper.json;
   "avbin" = ./avbin.json;
+  "avr_io" = ./avr_io.json;
   "awesome_rmdir" = ./awesome_rmdir.json;
   "awk" = ./awk.json;
   "aws_sdk" = ./aws_sdk.json;
@@ -734,6 +735,7 @@
   "itn" = ./itn.json;
   "iup" = ./iup.json;
   "jack" = ./jack.json;
+  "jacket" = ./jacket.json;
   "jalali_nim" = ./jalali_nim.json;
   "jdec" = ./jdec.json;
   "jeknil" = ./jeknil.json;
@@ -2019,6 +2021,7 @@
   "vscds" = ./vscds.json;
   "vtable" = ./vtable.json;
   "w8crc" = ./w8crc.json;
+  "wasmrt" = ./wasmrt.json;
   "watch_for_files" = ./watch_for_files.json;
   "watchout" = ./watchout.json;
   "waterpark" = ./waterpark.json;
@@ -2108,6 +2111,7 @@
   "yahttp" = ./yahttp.json;
   "yaml" = ./yaml.json;
   "yanyl" = ./yanyl.json;
+  "yasync" = ./yasync.json;
   "yawd" = ./yawd.json;
   "youtubescraper" = ./youtubescraper.json;
   "ytcc" = ./ytcc.json;
