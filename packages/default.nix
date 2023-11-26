@@ -705,6 +705,7 @@
   "imstyle" = ./imstyle.json;
   "influx" = ./influx.json;
   "inim" = ./inim.json;
+  "iniplus" = ./iniplus.json;
   "instagram" = ./instagram.json;
   "integers" = ./integers.json;
   "intel_hex" = ./intel_hex.json;
