@@ -1413,6 +1413,7 @@
   "pastebin" = ./pastebin.json;
   "patgraph" = ./patgraph.json;
   "pathname" = ./pathname.json;
+  "pathutils" = ./pathutils.json;
   "patty" = ./patty.json;
   "pcap" = ./pcap.json;
   "pcgbasic" = ./pcgbasic.json;
@@ -1765,6 +1766,7 @@
   "sprymicro" = ./sprymicro.json;
   "spryvm" = ./spryvm.json;
   "spwd" = ./spwd.json;
+  "sqids" = ./sqids.json;
   "sqlbuilder" = ./sqlbuilder.json;
   "sqlite3_abi" = ./sqlite3_abi.json;
   "sqliteral" = ./sqliteral.json;
@@ -1968,6 +1970,7 @@
   "units" = ./units.json;
   "unittest2" = ./unittest2.json;
   "unpack" = ./unpack.json;
+  "unroll" = ./unroll.json;
   "unrolled" = ./unrolled.json;
   "unsplash" = ./unsplash.json;
   "untar" = ./untar.json;
