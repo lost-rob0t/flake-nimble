@@ -381,6 +381,7 @@
   "distances" = ./distances.json;
   "distorm3" = ./distorm3.json;
   "distributions" = ./distributions.json;
+  "dlutils" = ./dlutils.json;
   "dnd" = ./dnd.json;
   "dnsclient" = ./dnsclient.json;
   "dnsprotec" = ./dnsprotec.json;
@@ -2059,6 +2060,7 @@
   "wepoll" = ./wepoll.json;
   "whip" = ./whip.json;
   "whisky" = ./whisky.json;
+  "whisper" = ./whisper.json;
   "whois" = ./whois.json;
   "wiki2text" = ./wiki2text.json;
   "wilayahindonesia" = ./wilayahindonesia.json;
