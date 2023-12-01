@@ -1313,6 +1313,7 @@
   "ntangle" = ./ntangle.json;
   "nuance" = ./nuance.json;
   "nulid" = ./nulid.json;
+  "num_crunch" = ./num_crunch.json;
   "numericalnim" = ./numericalnim.json;
   "numnim" = ./numnim.json;
   "numtoword" = ./numToWord.json;
