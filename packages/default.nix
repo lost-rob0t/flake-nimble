@@ -965,6 +965,7 @@
   "mort" = ./mort.json;
   "moss_nim" = ./moss_nim.json;
   "mouse" = ./mouse.json;
+  "moveiterators" = ./moveiterators.json;
   "mpdclient" = ./mpdclient.json;
   "mpeg" = ./mpeg.json;
   "mpfit" = ./mpfit.json;
