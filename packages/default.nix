@@ -1294,6 +1294,7 @@
   "norx" = ./norx.json;
   "nostr" = ./nostr.json;
   "notcurses" = ./notcurses.json;
+  "note" = ./note.json;
   "notetxt" = ./notetxt.json;
   "notificatcher" = ./notificatcher.json;
   "notification" = ./notification.json;
