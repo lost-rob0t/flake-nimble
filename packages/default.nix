@@ -206,6 +206,7 @@
   "catnip" = ./catnip.json;
   "catppuccin" = ./catppuccin.json;
   "cbor" = ./cbor.json;
+  "ccal" = ./ccal.json;
   "cdecl" = ./cdecl.json;
   "cello" = ./cello.json;
   "cflags" = ./cflags.json;
@@ -701,6 +702,7 @@
   "imghdr" = ./imghdr.json;
   "imlib2" = ./imlib2.json;
   "imnotify" = ./imnotify.json;
+  "implot" = ./implot.json;
   "importc_helpers" = ./importc_helpers.json;
   "impulse_engine" = ./impulse_engine.json;
   "imstyle" = ./imstyle.json;
