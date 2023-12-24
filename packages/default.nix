@@ -1822,6 +1822,7 @@
   "subnet" = ./subnet.json;
   "subscribestar" = ./subscribestar.json;
   "subviewer" = ./subviewer.json;
+  "sudoku" = ./sudoku.json;
   "sue" = ./sue.json;
   "suffer" = ./suffer.json;
   "sugerror" = ./sugerror.json;
