@@ -725,6 +725,7 @@
   "io-spacenav" = ./io-spacenav.json;
   "io-usb" = ./io-usb.json;
   "ioselectors" = ./ioselectors.json;
+  "ipacore" = ./ipacore.json;
   "ipfshttpclient" = ./ipfshttpclient.json;
   "ipsumgenera" = ./ipsumgenera.json;
   "iputils" = ./iputils.json;
