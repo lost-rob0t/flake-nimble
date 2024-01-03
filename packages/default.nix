@@ -128,6 +128,7 @@
   "bgfxdotnim" = ./bgfxdotnim.json;
   "bibletools" = ./bibleTools.json;
   "biblioteca_guarrilla" = ./biblioteca_guarrilla.json;
+  "bight" = ./bight.json;
   "bigints" = ./bigints.json;
   "bignum" = ./bignum.json;
   "binance" = ./binance.json;
