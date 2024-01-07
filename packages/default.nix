@@ -1855,6 +1855,7 @@
   "systimes" = ./systimes.json;
   "tabcompletion" = ./tabcompletion.json;
   "tagger" = ./tagger.json;
+  "taggy" = ./taggy.json;
   "taglib" = ./taglib.json;
   "tam" = ./tam.json;
   "taps" = ./taps.json;
