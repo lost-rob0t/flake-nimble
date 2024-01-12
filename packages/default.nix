@@ -649,6 +649,7 @@
   "hex" = ./hex.json;
   "hexclock" = ./hexclock.json;
   "highlight" = ./highlight.json;
+  "highlightjs" = ./highlightjs.json;
   "hldiff" = ./hldiff.json;
   "hmac" = ./hmac.json;
   "hnimast" = ./hnimast.json;
@@ -1857,6 +1858,7 @@
   "tagger" = ./tagger.json;
   "taggy" = ./taggy.json;
   "taglib" = ./taglib.json;
+  "tailwindcss" = ./tailwindcss.json;
   "tam" = ./tam.json;
   "taps" = ./taps.json;
   "taskman" = ./taskman.json;
