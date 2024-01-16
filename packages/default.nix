@@ -355,6 +355,7 @@
   "decimal128" = ./decimal128.json;
   "decisiontree" = ./decisiontree.json;
   "deepspeech" = ./deepspeech.json;
+  "dekao" = ./dekao.json;
   "delaunay" = ./delaunay.json;
   "delight" = ./delight.json;
   "denim" = ./denim.json;
@@ -386,6 +387,7 @@
   "dlutils" = ./dlutils.json;
   "dnd" = ./dnd.json;
   "dnsclient" = ./dnsclient.json;
+  "dnsdisc" = ./dnsdisc.json;
   "dnsprotec" = ./dnsprotec.json;
   "dnsprotocol" = ./dnsprotocol.json;
   "dnsstamps" = ./dnsstamps.json;
@@ -1613,6 +1615,7 @@
   "rowdy" = ./rowdy.json;
   "rpgsheet" = ./rpgsheet.json;
   "rss" = ./rss.json;
+  "rssatom" = ./rssatom.json;
   "rsvg" = ./rsvg.json;
   "rtmidi" = ./rtmidi.json;
   "rtree" = ./rtree.json;
