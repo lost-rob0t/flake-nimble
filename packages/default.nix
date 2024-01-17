@@ -693,6 +693,7 @@
   "hyprland_ipc" = ./hyprland_ipc.json;
   "i18n" = ./i18n.json;
   "i3ipc" = ./i3ipc.json;
+  "icecream" = ./icecream.json;
   "icon" = ./icon.json;
   "iconim" = ./iconim.json;
   "iecook" = ./iecook.json;
