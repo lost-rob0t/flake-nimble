@@ -679,6 +679,7 @@
   "htsparse" = ./htsparse.json;
   "httpauth" = ./httpauth.json;
   "httpbeast" = ./httpbeast.json;
+  "httpbeastfork" = ./httpbeastfork.json;
   "httpform" = ./httpform.json;
   "httpkit" = ./httpkit.json;
   "httpstat" = ./httpstat.json;
@@ -752,6 +753,7 @@
   "jester" = ./jester.json;
   "jester2swagger" = ./jester2swagger.json;
   "jestercookiemsgs" = ./jestercookiemsgs.json;
+  "jesterfork" = ./jesterfork.json;
   "jestergeoip" = ./jestergeoip.json;
   "jesterjson" = ./jesterjson.json;
   "jestermongopool" = ./jestermongopool.json;
@@ -986,6 +988,7 @@
   "mui" = ./mui.json;
   "multicast" = ./multicast.json;
   "mummy" = ./mummy.json;
+  "mummy_utils" = ./mummy_utils.json;
   "murmur" = ./murmur.json;
   "murmurhash" = ./murmurhash.json;
   "musicsort" = ./musicSort.json;
