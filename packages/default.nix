@@ -1879,6 +1879,7 @@
   "telenim" = ./telenim.json;
   "tempdir" = ./tempdir.json;
   "tempfile" = ./tempfile.json;
+  "templater" = ./templater.json;
   "templates" = ./templates.json;
   "tencil" = ./tencil.json;
   "termbox" = ./termbox.json;
