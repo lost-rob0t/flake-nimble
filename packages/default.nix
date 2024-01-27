@@ -574,6 +574,7 @@
   "gerbil" = ./gerbil.json;
   "getch" = ./getch.json;
   "getmac" = ./getmac.json;
+  "getopty" = ./getopty.json;
   "getpodia" = ./getpodia.json;
   "getprime" = ./getprime.json;
   "getr" = ./getr.json;
