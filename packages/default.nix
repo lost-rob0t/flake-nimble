@@ -1321,6 +1321,9 @@
   "nre" = ./nre.json;
   "nregex" = ./nregex.json;
   "nrpl" = ./nrpl.json;
+  "nsdl1" = ./nsdl1.json;
+  "nsdl2" = ./nsdl2.json;
+  "nsdl3" = ./nsdl3.json;
   "nsh" = ./nsh.json;
   "nshout" = ./nshout.json;
   "nsu" = ./nsu.json;
@@ -2034,6 +2037,7 @@
   "vectors" = ./vectors.json;
   "versicles" = ./versicles.json;
   "vidhdr" = ./vidhdr.json;
+  "vier" = ./vier.json;
   "vikunja" = ./vikunja.json;
   "vimeo" = ./vimeo.json;
   "vkapi" = ./vkapi.json;
