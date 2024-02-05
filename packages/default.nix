@@ -1943,6 +1943,7 @@
   "torm" = ./torm.json;
   "toxcore" = ./toxcore.json;
   "tradingview" = ./tradingview.json;
+  "traitor" = ./traitor.json;
   "tram" = ./tram.json;
   "trayx" = ./trayx.json;
   "treesitter" = ./treesitter.json;
