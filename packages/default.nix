@@ -177,6 +177,7 @@
   "broly" = ./broly.json;
   "bs" = ./bs.json;
   "bson" = ./bson.json;
+  "bttrwttrin" = ./bttrwttrin.json;
   "bu" = ./bu.json;
   "buffer" = ./buffer.json;
   "bump" = ./bump.json;
@@ -384,6 +385,7 @@
   "distances" = ./distances.json;
   "distorm3" = ./distorm3.json;
   "distributions" = ./distributions.json;
+  "dither" = ./dither.json;
   "dlutils" = ./dlutils.json;
   "dnd" = ./dnd.json;
   "dnsclient" = ./dnsclient.json;
@@ -995,6 +997,7 @@
   "musicsort" = ./musicSort.json;
   "mustache" = ./mustache.json;
   "mutableseqs" = ./mutableseqs.json;
+  "mutf8" = ./mutf8.json;
   "mvb" = ./mvb.json;
   "mycouch" = ./mycouch.json;
   "myo" = ./myo.json;
