@@ -328,6 +328,7 @@
   "csvtools" = ./csvtools.json;
   "ctrulib" = ./ctrulib.json;
   "cucumber" = ./cucumber.json;
+  "curlies" = ./curlies.json;
   "curly" = ./curly.json;
   "currying" = ./currying.json;
   "d3" = ./d3.json;
@@ -873,6 +874,7 @@
   "lis3dhtr" = ./lis3dhtr.json;
   "listenbrainz" = ./listenbrainz.json;
   "listsv" = ./listsv.json;
+  "littlefs" = ./littlefs.json;
   "llvm" = ./LLVM.json;
   "lmdb" = ./lmdb.json;
   "loadenv" = ./loadenv.json;
@@ -1219,6 +1221,7 @@
   "nimpdf" = ./nimPDF.json;
   "nimpk" = ./nimpk.json;
   "nimplehttpserver" = ./NimpleHTTPServer.json;
+  "nimplex" = ./nimplex.json;
   "nimpmda" = ./nimpmda.json;
   "nimpng" = ./nimPNG.json;
   "nimppt" = ./nimppt.json;
@@ -1674,6 +1677,7 @@
   "sequester" = ./sequester.json;
   "sequoia" = ./sequoia.json;
   "sequtils2" = ./sequtils2.json;
+  "serde" = ./serde.json;
   "serial" = ./serial.json;
   "serialization" = ./serialization.json;
   "serializetools" = ./serializetools.json;
@@ -1869,6 +1873,7 @@
   "sysrandom" = ./sysrandom.json;
   "systimes" = ./systimes.json;
   "tabcompletion" = ./tabcompletion.json;
+  "tagforge" = ./tagforge.json;
   "tagger" = ./tagger.json;
   "taggy" = ./taggy.json;
   "taglib" = ./taglib.json;
