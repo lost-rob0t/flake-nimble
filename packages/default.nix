@@ -1810,6 +1810,7 @@
   "stashtable" = ./StashTable.json;
   "statistical_tests" = ./statistical_tests.json;
   "statsd_client" = ./statsd_client.json;
+  "statsdaemon" = ./statsdaemon.json;
   "stb_image" = ./stb_image.json;
   "stb_truetype" = ./stb_truetype.json;
   "std_shims" = ./std_shims.json;
