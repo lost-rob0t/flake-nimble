@@ -17,6 +17,7 @@
   "alsa" = ./alsa.json;
   "alut" = ./alut.json;
   "amka" = ./amka.json;
+  "amqpstats" = ./amqpstats.json;
   "amysql" = ./amysql.json;
   "analytics" = ./analytics.json;
   "anano" = ./anano.json;
