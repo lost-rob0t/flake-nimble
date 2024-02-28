@@ -1727,6 +1727,7 @@
   "simplelog" = ./simplelog.json;
   "simpleot" = ./simpleot.json;
   "simplepng" = ./simplepng.json;
+  "simplestatsdclient" = ./simplestatsdclient.json;
   "siphash" = ./siphash.json;
   "sitmo" = ./sitmo.json;
   "siwin" = ./siwin.json;
