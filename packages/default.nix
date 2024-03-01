@@ -200,6 +200,7 @@
   "canonicaljson" = ./canonicaljson.json;
   "cap10" = ./cap10.json;
   "capnp" = ./capnp.json;
+  "caprese" = ./caprese.json;
   "capstone" = ./capstone.json;
   "cascade" = ./cascade.json;
   "cassandra" = ./cassandra.json;
