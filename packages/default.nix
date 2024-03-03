@@ -1672,6 +1672,7 @@
   "sections" = ./sections.json;
   "segmentation" = ./segmentation.json;
   "selenimum" = ./selenimum.json;
+  "selfpipe" = ./selfpipe.json;
   "semver" = ./semver.json;
   "sensors" = ./sensors.json;
   "seq2d" = ./seq2d.json;
