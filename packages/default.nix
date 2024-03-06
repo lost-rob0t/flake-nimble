@@ -307,6 +307,7 @@
   "cozytaskpool" = ./cozytaskpool.json;
   "cppany" = ./cppany.json;
   "cppclass" = ./cppclass.json;
+  "cppconst" = ./cppconst.json;
   "cppstl" = ./cppstl.json;
   "cpptuples" = ./cpptuples.json;
   "cpuwhat" = ./cpuwhat.json;
@@ -1649,6 +1650,7 @@
   "sam_protocol" = ./sam_protocol.json;
   "sampletodolist" = ./sampleTodoList.json;
   "sass" = ./sass.json;
+  "sat" = ./sat.json;
   "saucenao-nim" = ./saucenao-nim.json;
   "sauer" = ./sauer.json;
   "sayhissatsuwaza" = ./sayhissatsuwaza.json;
