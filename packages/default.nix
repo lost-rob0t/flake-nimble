@@ -1135,6 +1135,7 @@
   "nimcr" = ./nimcr.json;
   "nimcrypt" = ./nimcrypt.json;
   "nimcrypto" = ./nimcrypto.json;
+  "nimcso" = ./nimcso.json;
   "nimcuda" = ./nimcuda.json;
   "nimcx" = ./nimcx.json;
   "nimdata" = ./NimData.json;
@@ -1859,6 +1860,7 @@
   "sumtypes" = ./sumtypes.json;
   "sun_moon" = ./sun_moon.json;
   "sunk" = ./sunk.json;
+  "sunny" = ./sunny.json;
   "sunvox" = ./sunvox.json;
   "supersnappy" = ./supersnappy.json;
   "supranim" = ./supranim.json;
