@@ -808,6 +808,7 @@
   "kmer" = ./kmer.json;
   "kmod" = ./kmod.json;
   "knot" = ./knot.json;
+  "koi" = ./koi.json;
   "kombinator" = ./kombinator.json;
   "kraut" = ./kraut.json;
   "kroutes" = ./kroutes.json;
