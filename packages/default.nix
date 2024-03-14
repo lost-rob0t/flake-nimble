@@ -2001,6 +2001,7 @@
   "uibuilder" = ./uibuilder.json;
   "uing" = ./uing.json;
   "ulid" = ./ulid.json;
+  "umriss" = ./umriss.json;
   "unchained" = ./unchained.json;
   "uncomment" = ./uncomment.json;
   "unibs" = ./unibs.json;
