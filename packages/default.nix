@@ -2067,6 +2067,7 @@
   "vmvc" = ./vmvc.json;
   "voicepeaky" = ./voicepeaky.json;
   "voicepeaky4gpt" = ./voicepeaky4gpt.json;
+  "vqsort" = ./vqsort.json;
   "vscds" = ./vscds.json;
   "vtable" = ./vtable.json;
   "w8crc" = ./w8crc.json;
