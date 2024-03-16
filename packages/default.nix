@@ -512,6 +512,7 @@
   "fision" = ./fision.json;
   "fitl" = ./fitl.json;
   "fixmath" = ./fixmath.json;
+  "flatbuffers" = ./flatBuffers.json;
   "flatdb" = ./flatdb.json;
   "flatty" = ./flatty.json;
   "fletcher" = ./fletcher.json;
@@ -717,6 +718,7 @@
   "imnotify" = ./imnotify.json;
   "implot" = ./implot.json;
   "importc_helpers" = ./importc_helpers.json;
+  "impulse" = ./impulse.json;
   "impulse_engine" = ./impulse_engine.json;
   "imstyle" = ./imstyle.json;
   "influx" = ./influx.json;
@@ -1391,6 +1393,7 @@
   "opus" = ./opus.json;
   "opusenc" = ./opusenc.json;
   "opussum" = ./opussum.json;
+  "orgtables" = ./orgtables.json;
   "origin" = ./origin.json;
   "ormin" = ./ormin.json;
   "os_files" = ./os_files.json;
