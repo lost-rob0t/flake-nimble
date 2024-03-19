@@ -1489,6 +1489,7 @@
   "plugins" = ./plugins.json;
   "plz" = ./plz.json;
   "png" = ./png.json;
+  "pnimrp" = ./pnimrp.json;
   "pnm" = ./pnm.json;
   "pokereval" = ./pokereval.json;
   "polybool" = ./polyBool.json;
