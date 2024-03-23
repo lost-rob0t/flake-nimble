@@ -322,6 +322,7 @@
   "crowngui" = ./crowngui.json;
   "crunchy" = ./crunchy.json;
   "csfml" = ./csfml.json;
+  "css3selectors" = ./css3selectors.json;
   "css_html_minify" = ./css_html_minify.json;
   "cssgrid" = ./cssgrid.json;
   "csv" = ./csv.json;
@@ -475,6 +476,7 @@
   "excelin" = ./excelin.json;
   "expander" = ./expander.json;
   "expat" = ./expat.json;
+  "expect" = ./expect.json;
   "exporttosqlite3" = ./exporttosqlite3.json;
   "exprgrad" = ./exprgrad.json;
   "extensions" = ./extensions.json;
