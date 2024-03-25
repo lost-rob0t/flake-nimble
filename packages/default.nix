@@ -87,6 +87,7 @@
   "autotyper" = ./autotyper.json;
   "avbin" = ./avbin.json;
   "avr_io" = ./avr_io.json;
+  "avrman" = ./avrman.json;
   "awesome_rmdir" = ./awesome_rmdir.json;
   "awk" = ./awk.json;
   "aws_sdk" = ./aws_sdk.json;
@@ -1490,6 +1491,7 @@
   "pluginmanager" = ./pluginmanager.json;
   "plugins" = ./plugins.json;
   "plz" = ./plz.json;
+  "pmath" = ./pmath.json;
   "png" = ./png.json;
   "pnimrp" = ./pnimrp.json;
   "pnm" = ./pnm.json;
