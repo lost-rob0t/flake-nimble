@@ -1879,6 +1879,7 @@
   "svgo" = ./svgo.json;
   "svvpi" = ./svvpi.json;
   "swayipc" = ./swayipc.json;
+  "sweet" = ./sweet.json;
   "switch_build" = ./switch_build.json;
   "syllables" = ./syllables.json;
   "symbolicnim" = ./symbolicnim.json;
