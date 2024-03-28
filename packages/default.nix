@@ -786,6 +786,7 @@
   "jsonfmt" = ./jsonfmt.json;
   "jsonnet" = ./jsonnet.json;
   "jsonob" = ./jsonob.json;
+  "jsonpak" = ./jsonpak.json;
   "jsonschema" = ./jsonschema.json;
   "jsony" = ./jsony.json;
   "jstin" = ./jstin.json;
