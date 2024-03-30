@@ -701,6 +701,7 @@
   "hyper" = ./hyper.json;
   "hyperloglog" = ./hyperloglog.json;
   "hyperscript" = ./hyperscript.json;
+  "hyperx" = ./hyperx.json;
   "hypixel" = ./hypixel.json;
   "hyprland_ipc" = ./hyprland_ipc.json;
   "i18n" = ./i18n.json;
