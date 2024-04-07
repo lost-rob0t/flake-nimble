@@ -213,6 +213,7 @@
   "cbor" = ./cbor.json;
   "ccal" = ./ccal.json;
   "cdecl" = ./cdecl.json;
+  "cdp" = ./cdp.json;
   "cello" = ./cello.json;
   "cflags" = ./cflags.json;
   "cgi" = ./cgi.json;
@@ -1361,6 +1362,7 @@
   "objaccess" = ./objaccess.json;
   "objc_runtime" = ./objc_runtime.json;
   "oblivion" = ./oblivion.json;
+  "octolog" = ./octolog.json;
   "oculus" = ./oculus.json;
   "odbcn" = ./odbcn.json;
   "odsreader" = ./odsreader.json;
