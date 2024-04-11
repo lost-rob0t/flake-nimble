@@ -1136,6 +1136,7 @@
   "nimcfitsio" = ./nimcfitsio.json;
   "nimchromepath" = ./nimchromepath.json;
   "nimclipboard" = ./nimclipboard.json;
+  "nimcls" = ./nimcls.json;
   "nimclutter" = ./nimclutter.json;
   "nimcmaes" = ./nimcmaes.json;
   "nimcolor" = ./nimcolor.json;
