@@ -976,6 +976,7 @@
   "miniz" = ./miniz.json;
   "minline" = ./minline.json;
   "minmaxheap" = ./minmaxheap.json;
+  "mirage" = ./mirage.json;
   "miter" = ./miter.json;
   "mmgeoip" = ./mmgeoip.json;
   "mnemonic" = ./mnemonic.json;
