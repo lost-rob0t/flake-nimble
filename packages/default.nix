@@ -71,6 +71,7 @@
   "asyncpg" = ./asyncpg.json;
   "asyncpythonfile" = ./asyncpythonfile.json;
   "asyncredis" = ./asyncredis.json;
+  "asyncssh2" = ./asyncssh2.json;
   "asynctest" = ./asynctest.json;
   "asyncthreadpool" = ./asyncthreadpool.json;
   "asynctools" = ./asynctools.json;
@@ -1274,6 +1275,7 @@
   "nimsuite" = ./nimsuite.json;
   "nimsvg" = ./nimsvg.json;
   "nimtactoe" = ./NimTacToe.json;
+  "nimtcl" = ./nimtcl.json;
   "nimterlingua" = ./nimterlingua.json;
   "nimterop" = ./nimterop.json;
   "nimtess2" = ./nimtess2.json;
@@ -1745,6 +1747,7 @@
   "simplediff" = ./simplediff.json;
   "simpleflake" = ./simpleflake.json;
   "simplelog" = ./simplelog.json;
+  "simplemail" = ./simpleMail.json;
   "simpleot" = ./simpleot.json;
   "simplepng" = ./simplepng.json;
   "simplestatsdclient" = ./simplestatsdclient.json;
