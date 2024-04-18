@@ -1630,6 +1630,7 @@
   "resultutils" = ./resultutils.json;
   "rethinkdb" = ./rethinkdb.json;
   "retranslator" = ./retranslator.json;
+  "rex" = ./rex.json;
   "rexpaint" = ./rexpaint.json;
   "rfc3339" = ./rfc3339.json;
   "riff" = ./riff.json;
