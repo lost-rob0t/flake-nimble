@@ -382,6 +382,7 @@
   "diffoutput" = ./diffoutput.json;
   "digitalocean" = ./digitalocean.json;
   "dik" = ./dik.json;
+  "dim" = ./dim.json;
   "dimage" = ./dimage.json;
   "dimscmd" = ./dimscmd.json;
   "dimscord" = ./dimscord.json;
