@@ -1625,6 +1625,7 @@
   "requirementstxt" = ./requirementstxt.json;
   "resolv" = ./resolv.json;
   "resolver" = ./resolver.json;
+  "respite" = ./respite.json;
   "result" = ./result.json;
   "results" = ./results.json;
   "resultsutils" = ./resultsutils.json;
@@ -1871,6 +1872,7 @@
   "subnet" = ./subnet.json;
   "subscribestar" = ./subscribestar.json;
   "subviewer" = ./subviewer.json;
+  "sudo" = ./sudo.json;
   "sudoku" = ./sudoku.json;
   "sue" = ./sue.json;
   "suffer" = ./suffer.json;
@@ -2122,6 +2124,7 @@
   "webui" = ./webui.json;
   "webview" = ./webview.json;
   "weightedgraph" = ./weightedgraph.json;
+  "well_parser" = ./well_parser.json;
   "wepoll" = ./wepoll.json;
   "whip" = ./whip.json;
   "whisky" = ./whisky.json;
