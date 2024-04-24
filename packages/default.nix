@@ -14,6 +14,7 @@
   "alignment" = ./alignment.json;
   "allegro5" = ./allegro5.json;
   "allographer" = ./allographer.json;
+  "aloganimisc" = ./aloganimisc.json;
   "alsa" = ./alsa.json;
   "alut" = ./alut.json;
   "amka" = ./amka.json;
@@ -66,12 +67,15 @@
   "asyncdocker" = ./asyncdocker.json;
   "asyncevents" = ./asyncevents.json;
   "asyncftpclient" = ./asyncftpclient.json;
+  "asyncio" = ./asyncio.json;
   "asynciters" = ./asyncIters.json;
   "asyncmysql" = ./asyncmysql.json;
   "asyncpg" = ./asyncpg.json;
+  "asyncproc" = ./asyncproc.json;
   "asyncpythonfile" = ./asyncpythonfile.json;
   "asyncredis" = ./asyncredis.json;
   "asyncssh2" = ./asyncssh2.json;
+  "asyncsync" = ./asyncsync.json;
   "asynctest" = ./asynctest.json;
   "asyncthreadpool" = ./asyncthreadpool.json;
   "asynctools" = ./asynctools.json;
@@ -330,6 +334,7 @@
   "cssgrid" = ./cssgrid.json;
   "csv" = ./csv.json;
   "csv2dbsrc" = ./csv2dbsrc.json;
+  "csvdict" = ./csvdict.json;
   "csvql" = ./csvql.json;
   "csvtable" = ./csvtable.json;
   "csvtools" = ./csvtools.json;
