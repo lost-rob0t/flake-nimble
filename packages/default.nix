@@ -1274,6 +1274,7 @@
   "nimsnappyc" = ./nimsnappyc.json;
   "nimsocks" = ./nimSocks.json;
   "nimspice" = ./nimspice.json;
+  "nimsrvstat" = ./nimsrvstat.json;
   "nimssh2" = ./nimssh2.json;
   "nimssl" = ./nimssl.json;
   "nimstopwatch" = ./nimstopwatch.json;
