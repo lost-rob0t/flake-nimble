@@ -435,6 +435,7 @@
   "eachdo" = ./eachdo.json;
   "easings" = ./easings.json;
   "eastasianwidth" = ./eastasianwidth.json;
+  "easter" = ./easter.json;
   "easy_sqlite3" = ./easy_sqlite3.json;
   "easymail" = ./easymail.json;
   "echon" = ./Echon.json;
