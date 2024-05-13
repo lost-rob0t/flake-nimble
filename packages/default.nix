@@ -658,6 +658,7 @@
   "halonium" = ./halonium.json;
   "hangover" = ./hangover.json;
   "happyx" = ./happyx.json;
+  "happyx-ui" = ./happyx-ui.json;
   "haraka" = ./haraka.json;
   "harpoon" = ./harpoon.json;
   "hashids" = ./hashids.json;
