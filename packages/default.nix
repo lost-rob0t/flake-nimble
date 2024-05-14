@@ -391,6 +391,7 @@
   "dimage" = ./dimage.json;
   "dimscmd" = ./dimscmd.json;
   "dimscord" = ./dimscord.json;
+  "dira" = ./dira.json;
   "directnimrod" = ./directnimrod.json;
   "dirtydeeds" = ./dirtydeeds.json;
   "dirtygpt" = ./dirtygpt.json;
@@ -848,6 +849,7 @@
   "leopard" = ./leopard.json;
   "letutils" = ./letUtils.json;
   "leveldb" = ./leveldb.json;
+  "leveldbstatic" = ./leveldbstatic.json;
   "libarchibi" = ./libarchibi.json;
   "libbacktrace" = ./libbacktrace.json;
   "libclang" = ./libclang.json;
@@ -1361,6 +1363,7 @@
   "nsu" = ./nsu.json;
   "ntangle" = ./ntangle.json;
   "nuance" = ./nuance.json;
+  "nudates" = ./nudates.json;
   "nulid" = ./nulid.json;
   "num_crunch" = ./num_crunch.json;
   "numericalnim" = ./numericalnim.json;
