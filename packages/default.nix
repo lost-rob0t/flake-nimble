@@ -248,6 +248,7 @@
   "cirru_writer" = ./cirru_writer.json;
   "cittadino" = ./cittadino.json;
   "clang" = ./clang.json;
+  "clap" = ./clap.json;
   "clapfn" = ./clapfn.json;
   "classes" = ./classes.json;
   "classy" = ./classy.json;
@@ -311,6 +312,7 @@
   "coverage" = ./coverage.json;
   "coverartarchive" = ./coverartarchive.json;
   "cowstrings" = ./cowstrings.json;
+  "cozylogwriter" = ./cozylogwriter.json;
   "cozytaskpool" = ./cozytaskpool.json;
   "cppany" = ./cppany.json;
   "cppclass" = ./cppclass.json;
@@ -1294,6 +1296,7 @@
   "nimtest" = ./nimtest.json;
   "nimtetris" = ./nimtetris.json;
   "nimtiingo" = ./nimTiingo.json;
+  "nimtk" = ./nimtk.json;
   "nimtomd" = ./nimtomd.json;
   "nimtraits" = ./nimtraits.json;
   "nimtrs" = ./nimtrs.json;
