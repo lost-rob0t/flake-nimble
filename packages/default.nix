@@ -1047,6 +1047,7 @@
   "natu" = ./natu.json;
   "nauthy" = ./nauthy.json;
   "naw" = ./naw.json;
+  "naylib" = ./naylib.json;
   "nbaser" = ./nbaser.json;
   "nbcnews" = ./nbcnews.json;
   "ncurses" = ./ncurses.json;
