@@ -1059,6 +1059,7 @@
   "necsus" = ./necsus.json;
   "neel" = ./Neel.json;
   "negamax" = ./negamax.json;
+  "negl" = ./negl.json;
   "nemini" = ./nemini.json;
   "neo" = ./neo.json;
   "neoid" = ./neoid.json;
@@ -1655,6 +1656,7 @@
   "ringdeque" = ./ringDeque.json;
   "ris" = ./ris.json;
   "rlp" = ./rlp.json;
+  "rng" = ./rng.json;
   "rnim" = ./rnim.json;
   "robotparser" = ./robotparser.json;
   "rocksdb" = ./rocksdb.json;
