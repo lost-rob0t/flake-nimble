@@ -189,6 +189,7 @@
   "buffer" = ./buffer.json;
   "bump" = ./bump.json;
   "bumpy" = ./bumpy.json;
+  "businessdays" = ./businessdays.json;
   "bytes2human" = ./bytes2human.json;
   "bytesequtils" = ./bytesequtils.json;
   "byteutils" = ./byteutils.json;
@@ -613,6 +614,7 @@
   "github_api" = ./github_api.json;
   "github_release" = ./github_release.json;
   "gitman" = ./gitman.json;
+  "gitty" = ./gitty.json;
   "glbits" = ./glbits.json;
   "gles" = ./gles.json;
   "glew" = ./glew.json;
