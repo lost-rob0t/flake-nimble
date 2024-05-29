@@ -889,6 +889,7 @@
   "libssh2" = ./libssh2.json;
   "libsvm" = ./libsvm.json;
   "libsvm_legacy" = ./libsvm_legacy.json;
+  "libtray" = ./libtray.json;
   "libu2f" = ./libu2f.json;
   "libusb" = ./libusb.json;
   "libuv" = ./libuv.json;
