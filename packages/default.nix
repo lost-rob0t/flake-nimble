@@ -1750,6 +1750,7 @@
   "shizuka" = ./shizuka.json;
   "shlex" = ./shlex.json;
   "shmk" = ./shmk.json;
+  "shobiz" = ./shobiz.json;
   "shoco" = ./shoco.json;
   "shopifyextractor" = ./shopifyextractor.json;
   "shorteststring" = ./shorteststring.json;
