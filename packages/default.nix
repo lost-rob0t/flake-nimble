@@ -224,7 +224,9 @@
   "cflags" = ./cflags.json;
   "cgi" = ./cgi.json;
   "chacha20" = ./chacha20.json;
+  "chagashi" = ./chagashi.json;
   "chain" = ./chain.json;
+  "chame" = ./chame.json;
   "changer" = ./changer.json;
   "chat_openai" = ./chat_openai.json;
   "chatgptclient" = ./chatgptclient.json;
@@ -1004,6 +1006,7 @@
   "mongopool" = ./mongopool.json;
   "mongrel2" = ./mongrel2.json;
   "monocypher" = ./monocypher.json;
+  "monoucha" = ./monoucha.json;
   "morelogging" = ./morelogging.json;
   "morepretty" = ./morepretty.json;
   "mort" = ./mort.json;
