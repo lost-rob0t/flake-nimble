@@ -1194,6 +1194,7 @@
   "nimgen" = ./nimgen.json;
   "nimgit2" = ./nimgit2.json;
   "nimgl" = ./nimgl.json;
+  "nimgo" = ./nimgo.json;
   "nimgram" = ./nimgram.json;
   "nimgraphql" = ./nimgraphql.json;
   "nimgraphviz" = ./nimgraphviz.json;
