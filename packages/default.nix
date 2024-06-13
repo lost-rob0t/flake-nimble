@@ -858,6 +858,7 @@
   "leveldbstatic" = ./leveldbstatic.json;
   "libarchibi" = ./libarchibi.json;
   "libbacktrace" = ./libbacktrace.json;
+  "libcapstone" = ./libcapstone.json;
   "libclang" = ./libclang.json;
   "libcurl" = ./libcurl.json;
   "libdeflate_gzip" = ./libdeflate_gzip.json;
@@ -893,6 +894,7 @@
   "libsvm_legacy" = ./libsvm_legacy.json;
   "libtray" = ./libtray.json;
   "libu2f" = ./libu2f.json;
+  "libunicorn" = ./libunicorn.json;
   "libusb" = ./libusb.json;
   "libuv" = ./libuv.json;
   "libvlc" = ./libvlc.json;
