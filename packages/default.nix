@@ -1324,6 +1324,7 @@
   "nimzbar" = ./nimzbar.json;
   "nimzend" = ./nimzend.json;
   "nimzip" = ./nimzip.json;
+  "ninit" = ./ninit.json;
   "nint128" = ./nint128.json;
   "nio" = ./nio.json;
   "niprefs" = ./niprefs.json;
