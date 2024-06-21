@@ -269,6 +269,7 @@
   "cliptomania" = ./cliptomania.json;
   "cliseqselector" = ./cliSeqSelector.json;
   "closure_compiler" = ./closure_compiler.json;
+  "cloths" = ./cloths.json;
   "cloudbet" = ./cloudbet.json;
   "clown_limiter" = ./clown_limiter.json;
   "clr" = ./clr.json;
