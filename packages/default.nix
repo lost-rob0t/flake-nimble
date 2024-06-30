@@ -1259,6 +1259,7 @@
   "nimpc" = ./NiMPC.json;
   "nimpcre" = ./nimpcre.json;
   "nimpdf" = ./nimPDF.json;
+  "nimpgp" = ./nimPGP.json;
   "nimpk" = ./nimpk.json;
   "nimplehttpserver" = ./NimpleHTTPServer.json;
   "nimplex" = ./nimplex.json;
