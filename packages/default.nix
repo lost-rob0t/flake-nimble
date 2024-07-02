@@ -930,6 +930,7 @@
   "lq" = ./lq.json;
   "lrparser" = ./lrparser.json;
   "lrucache" = ./lrucache.json;
+  "lsblk" = ./lsblk.json;
   "lscolors" = ./lscolors.json;
   "lua" = ./lua.json;
   "luhncheck" = ./luhncheck.json;
