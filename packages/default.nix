@@ -989,6 +989,7 @@
   "migrate" = ./migrate.json;
   "mike" = ./mike.json;
   "millie" = ./millie.json;
+  "mimalloc" = ./mimalloc.json;
   "mime" = ./mime.json;
   "minecraft_server_status" = ./minecraft_server_status.json;
   "minhash" = ./minhash.json;
