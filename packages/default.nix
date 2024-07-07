@@ -300,6 +300,7 @@
   "configparser" = ./configparser.json;
   "confutils" = ./confutils.json;
   "conio" = ./conio.json;
+  "constantine" = ./constantine.json;
   "constants" = ./constants.json;
   "constructor" = ./constructor.json;
   "consul" = ./consul.json;
