@@ -447,6 +447,7 @@
   "easy_sqlite3" = ./easy_sqlite3.json;
   "easymail" = ./easymail.json;
   "echon" = ./Echon.json;
+  "ecslib" = ./ecslib.json;
   "ed25519" = ./ed25519.json;
   "edens" = ./edens.json;
   "editlyconf" = ./editlyconf.json;
