@@ -173,6 +173,7 @@
   "bncurve" = ./bncurve.json;
   "boneio" = ./boneIO.json;
   "bossy" = ./bossy.json;
+  "box2d" = ./box2d.json;
   "boxy" = ./boxy.json;
   "bpg" = ./bpg.json;
   "brainfuck" = ./brainfuck.json;
