@@ -655,6 +655,7 @@
   "gravatar" = ./gravatar.json;
   "grim" = ./grim.json;
   "grp" = ./grp.json;
+  "grpc" = ./grpc.json;
   "gsl" = ./gsl.json;
   "gtk2" = ./gtk2.json;
   "gtkgenui" = ./gtkgenui.json;
