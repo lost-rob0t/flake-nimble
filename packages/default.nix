@@ -688,6 +688,7 @@
   "hldiff" = ./hldiff.json;
   "hmac" = ./hmac.json;
   "hnimast" = ./hnimast.json;
+  "holidapi" = ./holidapi.json;
   "holst" = ./holst.json;
   "horde3d" = ./horde3d.json;
   "host" = ./host.json;
