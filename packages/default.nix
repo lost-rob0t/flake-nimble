@@ -669,6 +669,7 @@
   "hackpad" = ./hackpad.json;
   "halonium" = ./halonium.json;
   "hangover" = ./hangover.json;
+  "hannah" = ./hannah.json;
   "happyx" = ./happyx.json;
   "happyx-ui" = ./happyx-ui.json;
   "haraka" = ./haraka.json;
