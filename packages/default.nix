@@ -118,6 +118,7 @@
   "basic2d" = ./basic2d.json;
   "basic3d" = ./basic3d.json;
   "batchsend" = ./batchsend.json;
+  "batmon" = ./batmon.json;
   "batteries" = ./batteries.json;
   "battery_widget" = ./battery_widget.json;
   "battinfo" = ./battinfo.json;
@@ -183,6 +184,7 @@
   "brightcove" = ./brightcove.json;
   "bro" = ./bro.json;
   "broly" = ./broly.json;
+  "brotli" = ./brotli.json;
   "bs" = ./bs.json;
   "bson" = ./bson.json;
   "bttrwttrin" = ./bttrwttrin.json;
