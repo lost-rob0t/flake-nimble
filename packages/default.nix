@@ -1340,6 +1340,7 @@
   "nint128" = ./nint128.json;
   "nio" = ./nio.json;
   "niprefs" = ./niprefs.json;
+  "niqlite" = ./niqlite.json;
   "niscv" = ./niscv.json;
   "nish" = ./nish.json;
   "nitro" = ./nitro.json;
