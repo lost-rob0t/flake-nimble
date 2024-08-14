@@ -1069,6 +1069,7 @@
   "naylib" = ./naylib.json;
   "nbaser" = ./nbaser.json;
   "nbcnews" = ./nbcnews.json;
+  "nclap" = ./nclap.json;
   "ncurses" = ./ncurses.json;
   "ndb" = ./ndb.json;
   "ndbex" = ./ndbex.json;
@@ -1945,6 +1946,7 @@
   "syslog" = ./syslog.json;
   "sysrandom" = ./sysrandom.json;
   "systimes" = ./systimes.json;
+  "tabby" = ./tabby.json;
   "tabcompletion" = ./tabcompletion.json;
   "tagforge" = ./tagforge.json;
   "tagger" = ./tagger.json;
