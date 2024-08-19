@@ -474,6 +474,7 @@
   "entgrep" = ./entgrep.json;
   "entoody" = ./entoody.json;
   "envconfig" = ./envconfig.json;
+  "envmw" = ./envmw.json;
   "epub" = ./epub.json;
   "epub2gpub" = ./epub2gpub.json;
   "eris" = ./eris.json;
