@@ -1587,6 +1587,7 @@
   "ptest" = ./ptest.json;
   "ptr_math" = ./ptr_math.json;
   "ptrace" = ./ptrace.json;
+  "pugl" = ./pugl.json;
   "punycode" = ./punycode.json;
   "puppy" = ./puppy.json;
   "pvim" = ./pvim.json;
@@ -2057,6 +2058,7 @@
   "ttop" = ./ttop.json;
   "tuples" = ./tuples.json;
   "turn_based_game" = ./turn_based_game.json;
+  "turso-nim" = ./turso-nim.json;
   "tweens" = ./tweens.json;
   "twitter" = ./twitter.json;
   "typelists" = ./typelists.json;
