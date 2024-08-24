@@ -1364,6 +1364,7 @@
   "noptics" = ./noptics.json;
   "nordaudio" = ./nordaudio.json;
   "nordnet" = ./nordnet.json;
+  "norg" = ./norg.json;
   "norm" = ./norm.json;
   "normalize" = ./normalize.json;
   "norman" = ./norman.json;
